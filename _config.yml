@@ -1,31 +1,32 @@
 # Site wide configuration
 
-title: Site Title
+title: Research Website of Monah Abou Alezz
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Monah Abou Alezz
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "This website provides research updates from Monah Abou Alezz (he/him/his), PhD.
+  Monah is a postdoctoral researcher in the Bioinformatics Core of the San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy. "
+  email: aboualezz.monah@hsr.it
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  twitter: MonahAbouAlezz
+  linkedin: monah-abou-alezz-phd-06a948ba
+  github: monahton
+  orcid: 0000-0002-2006-4250
+  researchgate: Monah_Abou_Alezz
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
     scholar: #id
-  facebook: #username
-  instagram: #username
+  facebook: monah.ezz
+  instagram: monahton
   bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  stackoverflow: 9516021/monahaboualezz
   xing: #username
   lastfm: #username
   tumblr: #username
@@ -48,7 +49,7 @@ lowlight-color: '#000'
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
-  cc-by-nc: #yes
+  cc-by-nc: yes
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
