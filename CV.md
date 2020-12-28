@@ -88,7 +88,7 @@ Bachelor Degree in Earth and Life Sciences
 
 ## Skills
 
-### Bioinformatics Skills
+_Bioinformatics Skills_
 
 - Proficient knowledge of Windows 7/8/10, MacOS and Linux operative systems
 - Proficient knowledge of Linux environment (Ubuntu)
@@ -107,8 +107,9 @@ Bachelor Degree in Earth and Life Sciences
 - Proficient in utilizing Galaxy web-interface
 - Proficient knowledge in Microsoft office suite
 - Image Analysis Software: Adobe Photoshop, ImageJ, Cell F
+  
+_Wet Laboratory Skills_
 
-### Wet Laboratory Skills
 - Proficient in Electron Microscopy Techniques: fixation, pre-embedding, dehydration, inclusion, staining (uranyl acetate,
 terbium, osmium amine), ultramicrotome
 - Proficient in Electron Microscopy Operations and Handling (ZEISS EM 900)
@@ -127,8 +128,8 @@ biochemical testing.
 - Protein Extraction - Bradford Protein Assay
 - ELISA Assay
 - In-vitro Plant Cell Culture
-
-### Language Skills:
+  
+_Language Skills_
 - Mother-tongue Language: Arabic
 - Proficient in English (B2) and Italian (B1) Languages
 - Novice in French (A1) and Polish (A1) Languages
@@ -152,8 +153,8 @@ ERASMUS+ fellowship, _University of Pavia_
 
 ## Publications
 
-### Journals
-
+_Journals_
+  
 `2020`
 Abou Alezz M, Celli L, Belotti G, Lisa A and Bione S. 2020. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
 Suggest Their Role in Gene Expression Regulation. Front. Genet. 11:488. doi:10.3389/fgene.2020.00488
@@ -161,9 +162,9 @@ Suggest Their Role in Gene Expression Regulation. Front. Genet. 11:488. doi:10.3
 `2020`
 Abou Alezz M, Salviati L, Nicastro A, Belotti G, Alfieri R, Lisa A, Bione S. 2020. A Preferential enrichment of GC donor splice sites in
 wobble splicing. Under submission.
-
-### Software
-
+  
+_Software_
+  
 `2020`
 Abou Alezz M, Salviati L, Alfieri R, Bione S. 2020. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
 R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zenodo.3605995
