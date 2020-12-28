@@ -10,7 +10,7 @@ __Postodoctoral researcher__, San Raffaele Telethon Institute for Gene Therapy (
 
 - Bioinformatics Core
 - Projects:
-    - Retrovirus-host interactions and innate immunity to gene transfer: _Prof. Anna Kajaste-Rudnitski_
+    - Retrovirus-host interactions and innate immunity to gene transfer: *Prof. Anna Kajaste-Rudnitski*
     - Epigenetic regulation and targeted genome editing: _Prof. Angelo Lombardo_
     - Human hematopoietic development and disease modeling: _Dr. Andrea Ditadi_
 
@@ -18,12 +18,12 @@ __Postodoctoral researcher__, San Raffaele Telethon Institute for Gene Therapy (
 __Software and Data Carpentry Instructor__, The Carpentries 
 
 A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.
-- ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python | _Dec 14 - 17, 2020_
-- ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting | _Dec 07 - 11, 2020_
-- ***Stony Brook University:*** Software Carpentry instructor: Programming with R | _Sep 12 - 13, 2020_
-- ***North Carolina Central University:*** Data Carpentry instructor: Introduction to R and data visualisation | _Aug 12 - 14, 2020_
-- ***University of Stuttgart:*** Software carpentry instructor: Building programs with python | _Nov 21 - 22, 2019_
-- ***University of Milano Bicocca:*** Dara Carpentry instructor: Introduction to Python and data visualisation | _Feb 14 - 15, 2019_
+- ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python, _Dec 14 - 17, 2020_
+- ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting, _Dec 07 - 11, 2020_
+- ***Stony Brook University:*** Software Carpentry instructor: Programming with R, _Sep 12 - 13, 2020_
+- ***North Carolina Central University:*** Data Carpentry instructor: Introduction to R and data visualisation, _Aug 12 - 14, 2020_
+- ***University of Stuttgart:*** Software carpentry instructor: Building programs with python, _Nov 21 - 22, 2019_
+- ***University of Milano Bicocca:*** Dara Carpentry instructor: Introduction to Python and data visualisation, _Feb 14 - 15, 2019_
 
 `October 2018 - Current`
 __Bioinformatics Tutor__, University of Pavia
