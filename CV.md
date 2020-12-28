@@ -85,6 +85,25 @@ Bachelor Degree in Earth and Life Sciences
 
 ## Skills
 
+#### BIOINFORMATICS AND INFORMATICS SKILLS:
+• Proficient knowledge of Windows 7/8/10, MacOS and Linux operative systems
+• Proficient knowledge of Linux environment (Ubuntu)
+• Proficient knowledge of bash and shell scripting
+• Proficient knowledge of AWS (Amazon Web Services) clusters (S3 and EC2 instances) and Cloud Services
+• Proficient knowledge in machine learning approaches
+• Proficient knowledge of R programming language
+• Proficient knowledge in Python programming language
+• Basic knowledge in Perl programming language
+• Basic knowledge in SQL
+• Proficient knowledge in version control and source code management tools like GIT
+• Proficient knowledge in docker containers
+• Proficient in Next Generation Sequencing analysis tool and devoloping data analysis pipelines
+• Proficient knowledge in data mining and data visualisation tools
+• Proficient in utilizing genomic databases
+• Proficient in utilizing Galaxy web-interface
+• Proficient knowledge in Microsoft office suite
+• Image Analysis Software: Adobe Photoshop, ImageJ, Cell F
+
 ## Awards
 
 `2019`
