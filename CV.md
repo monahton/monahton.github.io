@@ -6,10 +6,10 @@ permalink: /CV/
 
 ## Personal Information
 
-_Address:_ Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
-_Date of Birth:_ 03/04/1994 
-_Nationality:_ Lebanese
-_Email:_ aboualezz.monah@hsr.it
+- _Address:_ Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
+- _Date of Birth:_ 03/04/1994 
+- _Nationality:_ Lebanese
+- _Email:_ aboualezz.monah@hsr.it
 
 ## Professional Experience
 
