@@ -160,8 +160,6 @@ _25th Wilhelm Bernhard Workshop on the Cell Nucleus_ – Nizhny Novgorod, Russia
 Biggiogera M, Tollemeto V, Bina V, Abou Alezz M, Masiello I. Transcription time window applied to RNA modifications in HeLa cells
 – _Nuclear structure and dynamics through the microscopes symposium_ - Pavia, Italy
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<a name="myfootnote1">1</a>: Last updated: _28/12/2020
 
 
