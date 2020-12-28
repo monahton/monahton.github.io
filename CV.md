@@ -10,20 +10,20 @@ __Postodoctoral researcher__, San Raffaele Telethon Institute for Gene Therapy (
 
 - Bioinformatics Core
 - Projects:
-    - Retrovirus-host interactions and innate immunity to gene transfer: *Prof. Anna Kajaste-Rudnitski*
-    - Epigenetic regulation and targeted genome editing: _Prof. Angelo Lombardo_
-    - Human hematopoietic development and disease modeling: _Dr. Andrea Ditadi_
+    - Retrovirus-host interactions and innate immunity to gene transfer: Prof. Anna Kajaste-Rudnitski
+    - Epigenetic regulation and targeted genome editing: Prof. Angelo Lombardo
+    - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
 
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries 
 
 A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.
-- ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python, _Dec 14 - 17, 2020_
-- ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting, _Dec 07 - 11, 2020_
-- ***Stony Brook University:*** Software Carpentry instructor: Programming with R, _Sep 12 - 13, 2020_
-- ***North Carolina Central University:*** Data Carpentry instructor: Introduction to R and data visualisation, _Aug 12 - 14, 2020_
-- ***University of Stuttgart:*** Software carpentry instructor: Building programs with python, _Nov 21 - 22, 2019_
-- ***University of Milano Bicocca:*** Dara Carpentry instructor: Introduction to Python and data visualisation, _Feb 14 - 15, 2019_
+- ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python, Dec 14 - 17, 2020
+- ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting, Dec 07 - 11, 2020
+- ***Stony Brook University:*** Software Carpentry instructor: Programming with R, Sep 12 - 13, 2020
+- ***North Carolina Central University:*** Data Carpentry instructor: Introduction to R and data visualisation, Aug 12 - 14, 2020
+- ***University of Stuttgart:*** Software carpentry instructor: Building programs with python, Nov 21 - 22, 2019
+- ***University of Milano Bicocca:*** Dara Carpentry instructor: Introduction to Python and data visualisation, Feb 14 - 15, 2019
 
 `October 2018 - Current`
 __Bioinformatics Tutor__, University of Pavia
@@ -36,31 +36,31 @@ __PhD internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, N
 
 - Laboratory of Computational Biology
 - Project: Characterization of long non-coding RNAs genomic and splicing features
-- PI: _Prof. Silvia Bione
+- PI: Prof. Silvia Bione
 
 `July 2017 - October 2017`
 __ERASMUS+ Traineeship__, Institute of Plant Genetics, Polish Academy of Sciences
 
 - Laboratory of Plant Genetics
 - Project: Bioinformatics characterization and identification of miRNAs in woody species
-- PI: _Dr. Jorge A. Pinto Paiva_
+- PI: Dr. Jorge A. Pinto Paiva
 
 `November 2015 - July 2017`
 __Masters Internship__, University of Pavia - Department of Biology and Biotechnology L.Spallanzani
 
 - Laboratory of Cell and Neurobiology
 - Influence of divalent cations on DNA methylation and the modulation of chromatin structure in an in situ ultrastructural study
-- PI: _Prof. Marco Biggiogera_
+- PI: Prof. Marco Biggiogera
 
 `July 2009 - July 2015`
 __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI) 
 
 - Department of Crop Production
     - Project: Quality analysis on commercial wheat for classification and marketing
-    - PI: _Eng. Chafic Stephane_
+    - PI: Eng. Chafic Stephane
 - Department of Plant Breeding and Improvement
     - Project: Identification of new promising varieties of Triticum aestivum, Hordeum vulgare, and Lens culinaris with high productivity, good grain quality and good adaptation to different climatic conditions.
-    - PI: _Eng. Rabih Kabalan_
+    - PI: Eng. Rabih Kabalan
 
 ## Education
 
@@ -81,7 +81,7 @@ Bachelor Degree in Earth and Life Sciences
 ## Awards
 
 `2019`
-Best Poster Prize, _EMBL-EMBO Symposium: The Non-Coding Genome
+Best Poster Prize, _EMBL-EMBO Symposium: The Non-Coding Genome_
 
 `2018`
 Fellowship Grant, _AIRC Foundation_
