@@ -26,6 +26,7 @@ __Postodoctoral researcher__, San Raffaele Telethon Institute for Gene Therapy (
 __Software and Data Carpentry Instructor__, The Carpentries 
 
 A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.  
+  
 _Workshops:_  
 - ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python, Dec 14 - 17, 2020
 - ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting, Dec 07 - 11, 2020
