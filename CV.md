@@ -25,13 +25,14 @@ __Postodoctoral researcher__, San Raffaele Telethon Institute for Gene Therapy (
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries 
 
-A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.
+A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.  
+_Workshops:_  
 - ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python, Dec 14 - 17, 2020
 - ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting, Dec 07 - 11, 2020
 - ***Stony Brook University:*** Software Carpentry instructor: Programming with R, Sep 12 - 13, 2020
 - ***North Carolina Central University:*** Data Carpentry instructor: Introduction to R and data visualisation, Aug 12 - 14, 2020
 - ***University of Stuttgart:*** Software carpentry instructor: Building programs with python, Nov 21 - 22, 2019
-- ***University of Milano Bicocca:*** Dara Carpentry instructor: Introduction to Python and data visualisation, Feb 14 - 15, 2019
+- ***University of Milano Bicocca:*** Data Carpentry instructor: Introduction to Python and data visualisation, Feb 14 - 15, 2019
 
 `October 2018 - Current`
 __Bioinformatics Tutor__, University of Pavia
