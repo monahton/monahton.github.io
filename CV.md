@@ -3,67 +3,162 @@ layout: resume
 title: Curriculum vitae
 permalink: /CV/
 ---
-## Currently
+## Professional Experience
 
-Current Position Description
+`October 2020 - Current`
+__Postodoctoral researcher__, San Raffaele Telethon Institute for Gene Therapy (TIGET)
+
+- Bioinformatics Core
+- Projects:
+    - Retrovirus-host interactions and innate immunity to gene transfer: _Prof. Anna Kajaste-Rudnitski_
+    - Epigenetic regulation and targeted genome editing: _Prof. Angelo Lombardo_
+    - Human hematopoietic development and disease modeling: _Dr. Andrea Ditadi_
+
+`September 2019 - Current`
+__Software and Data Carpentry Instructor__, The Carpentries 
+
+A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.
+- ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python | _Dec 14 - 17, 2020_
+- ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting | _Dec 07 - 11, 2020_
+- ***Stony Brook University:*** Software Carpentry instructor: Programming with R | _Sep 12 - 13, 2020_
+- ***North Carolina Central University:*** Data Carpentry instructor: Introduction to R and data visualisation | _Aug 12 - 14, 2020_
+- ***University of Stuttgart:*** Software carpentry instructor: Building programs with python | _Nov 21 - 22, 2019_
+- ***University of Milano Bicocca:*** Dara Carpentry instructor: Introduction to Python and data visualisation | _Feb 14 - 15, 2019_
+
+`October 2018 - Current`
+__Bioinformatics Tutor__, University of Pavia
+
+- Bioinformatics Course of the Masters in Molecular Biology and Genetics
+- Training and practical sessions in bioinformatics tools
+
+`October 2017 - September 2020`
+__PhD internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council
+
+- Laboratory of Computational Biology
+- Project: Characterization of long non-coding RNAs genomic and splicing features
+- PI: _Prof. Silvia Bione
+
+`July 2017 - October 2017`
+__ERASMUS+ Traineeship__, Institute of Plant Genetics, Polish Academy of Sciences
+
+- Laboratory of Plant Genetics
+- Project: Bioinformatics characterization and identification of miRNAs in woody species
+- PI: _Dr. Jorge A. Pinto Paiva_
+
+`November 2015 - July 2017`
+__Masters Internship__, University of Pavia - Department of Biology and Biotechnology L.Spallanzani
+
+- Laboratory of Cell and Neurobiology
+- Influence of divalent cations on DNA methylation and the modulation of chromatin structure in an in situ ultrastructural study
+- PI: _Prof. Marco Biggiogera_
+
+`July 2009 - July 2015`
+__Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI) 
+
+- Department of Crop Production
+    - Project: Quality analysis on commercial wheat for classification and marketing
+    - PI: _Eng. Chafic Stephane_
+- Department of Plant Breeding and Improvement
+    - Project: Identification of new promising varieties of Triticum aestivum, Hordeum vulgare, and Lens culinaris with high productivity, good grain quality and good adaptation to different climatic conditions.
+    - PI: _Eng. Rabih Kabalan_
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017 - 2020`
+__University of Pavia__
+PhD in Genetics, Molecular and Cellular Biology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015 - 2017`
+__University of Pavia__
+Masters Degree in Molecular Biology and Genetics
+
+`2012 - 2015`
+__Lebanese University__
+Bachelor Degree in Earth and Life Sciences
+
+## Skills
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Best Poster Prize, _EMBL-EMBO Symposium: The Non-Coding Genome
+
+`2018`
+Fellowship Grant, _AIRC Foundation_
+
+`2018`
+Travel Grant, _INTEROMICS_
+
+`2017`
+Fellowship Grant, _Besta Neurological Institute_
+
+`2017`
+ERASMUS+ fellowship, _University of Pavia_
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2020`
+Abou Alezz M, Celli L, Belotti G, Lisa A and Bione S. 2020. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
+Suggest Their Role in Gene Expression Regulation. Front. Genet. 11:488. doi:10.3389/fgene.2020.00488
 
-`1994`
-Article Title, Journal Title
+`2020`
+Abou Alezz M, Salviati L, Nicastro A, Belotti G, Alfieri R, Lisa A, Bione S. 2020. A Preferential enrichment of GC donor splice sites in
+wobble splicing. Under submission.
 
-### Books
+### Software
 
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2020`
+Abou Alezz M, Salviati L, Alfieri R, Bione S. 2020. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
+R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zenodo.3605995
 
 
-## Occupation
+## Oral Presentations and Abstracts
 
-`Current`
-__Current Job Title__, Current Employer 
+`2020`
+Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
+protein-coding genes suggest their role in gene expression regulation - _22nd EMBL PhD Symposium: The Roaring 20s_ - Online
+conference
 
-- Task
-- Task
+`2020`
+Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
+protein-coding genes suggest their role in gene expression regulation" - _Cancer Science Institute of Singapore: 6th RNA Biology Symposium 2020_ - Online
+conference
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2020`
+Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
+protein-coding genes suggest their role in gene expression regulation" - _25th Annual meeting of the RNA Society_ - Online
+conference
 
-- Task
-- Task
+`2020`
+Abou Alezz M, Celli L, Belotti G, Lisa A, Bione S. Unexpected features of GC-AG introns in long non-coding and protein-coding
+genes suggest a new role as regulatory elements – _Pavia 3rd Annual Joint Symposium – LIFE SCIENCE 2020_ - Pavia, Italy
 
+`2019`
+Abou Alezz M, Celli L, Belotti G, Bione S. Characterization of the genomic and splicing features of long non-coding RNAs using
+bioinformatics approaches - _EMBL Symposia 2019: The Non-Coding Genome_ - Heidelberg, Germany
 
+`2018`
+Borowska M, Abou Alezz M, Jarząb M, Gomes C, Balestrazzi A, Paiva J. Preliminary overview on conserved miRNAs in Salix
+purpurea L. - _Integrative Plant Biology Conference, IPG PAS_ - Poznań, Poland
+
+`2018`
+Abou Alezz M, Celli L, Bione S. Computational approach towards genomic characterization of human long non-coding RNA -
+_EMBO Workshop 2018: From epigenome towards epitranscriptome in cell fate choice_ - Capri, Italy
+
+`2018`
+Masiello I, Siciliani S, Abou Alezz M, Bina V, Casali C, Stortiero M, Tollemeto V, Biggiogera M. High resolution dissection of
+interphase chromatin. Is 5-methylcytosine the main character in chromatin condensation? – _22nd International Chromosome
+Conference_ - Prague, Czech Republic
+
+`2017`
+Biggiogera M, Abou Alezz M, Bina V, Stortiero M, Tollemeto V, Masiello I. Heterogeneity of perichromatin fibril-associated factors -
+_25th Wilhelm Bernhard Workshop on the Cell Nucleus_ – Nizhny Novgorod, Russia
+
+`2016`
+Biggiogera M, Tollemeto V, Bina V, Abou Alezz M, Masiello I. Transcription time window applied to RNA modifications in HeLa cells
+– _Nuclear structure and dynamics through the microscopes symposium_ - Pavia, Italy
 
 <!-- ### Footer
 
