@@ -85,7 +85,7 @@ Bachelor Degree in Earth and Life Sciences
 
 ## Skills
 
-### Bioinformatics skills
+### Bioinformatics Skills
 
 - Proficient knowledge of Windows 7/8/10, MacOS and Linux operative systems
 - Proficient knowledge of Linux environment (Ubuntu)
@@ -105,7 +105,7 @@ Bachelor Degree in Earth and Life Sciences
 - Proficient knowledge in Microsoft office suite
 - Image Analysis Software: Adobe Photoshop, ImageJ, Cell F
 
-### Wet laboratory skills
+### Wet Laboratory Skills
 - Proficient in Electron Microscopy Techniques: fixation, pre-embedding, dehydration, inclusion, staining (uranyl acetate,
 terbium, osmium amine), ultramicrotome
 - Proficient in Electron Microscopy Operations and Handling (ZEISS EM 900)
@@ -125,7 +125,7 @@ biochemical testing.
 - ELISA Assay
 - In-vitro Plant Cell Culture
 
-### LANGUAGE SKILLS:
+### Language Skills:
 - Mother-tongue Language: Arabic
 - Proficient in English (B2) and Italian (B1) Languages
 - Novice in French (A1) and Polish (A1) Languages
