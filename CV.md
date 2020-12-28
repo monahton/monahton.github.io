@@ -4,11 +4,12 @@ title: Curriculum vitae
 permalink: /CV/
 ---
 
-<p align="center"> Monah Abou Alezz </p>
-<p align="center"> Address: Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy </p>
-<p align="center"> Date of Birth: 03/04/1994 </p>
-<p align="center"> Nationality: Lebanese </p>
-<p align="center"> Email: aboualezz.monah@hsr.it </p>
+## Personal Information
+
+_Address:_ Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
+_Date of Birth:_ 03/04/1994 
+_Nationality:_ Lebanese
+_Email:_ aboualezz.monah@hsr.it
 
 ## Professional Experience
 
