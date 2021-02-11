@@ -28,6 +28,9 @@ __Software and Data Carpentry Instructor__, The Carpentries
 A certified instructor by The Carpentries organization, California - USA. Teaching foundational coding and data science skills to researchers in workshops worldwide.  
   
 _Workshops:_  
+- ***Rutgers University:*** Genomics Workshop Instructor: Project management/ Introduction to cloud computing, Jan 26 - 29, 2021
+- ***Augusta University:*** Library Carpentry Instructor: Version control with Git/ The Unix Shell, Jan 26 - Feb 04, 2021
+- ***NIH Network of the National Library of Medicine:*** Library Carpentry Instructor: SQL, Jan 07 - 08, 2021
 - ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and Programming in Python, Dec 14 - 17, 2020
 - ***Auburn University:*** Library Carpentry instructor: The Unix shell and Bash scripting, Dec 07 - 11, 2020
 - ***Stony Brook University:*** Software Carpentry instructor: Programming with R, Sep 12 - 13, 2020
@@ -216,6 +219,6 @@ _25th Wilhelm Bernhard Workshop on the Cell Nucleus_ – Nizhny Novgorod, Russia
 Biggiogera M, Tollemeto V, Bina V, Abou Alezz M, Masiello I. Transcription time window applied to RNA modifications in HeLa cells
 – _Nuclear structure and dynamics through the microscopes symposium_ - Pavia, Italy
 
-<p align="right">Last updated: 28/12/2020</p>
+<p align="right">Last updated: 11/02/2021</p>
 
 
