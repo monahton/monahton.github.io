@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Monah Abou Alezz
   avatar: pic_monah_abou_alezz.jpg
-  bio: "This website provides research updates from Monah Abou Alezz (he/him/his), PhD.
+  bio: "This website provides research updates from Monah Abou Alezz (he/him/his), PhD. <br />
   Monah is a postdoctoral researcher in the Bioinformatics Core of the San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy. "
   email: aboualezz.monah@hsr.it
   # Do not include the @ symbol in your Twitter username
