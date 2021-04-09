@@ -13,10 +13,11 @@ permalink: /CV/
 ## Professional Experience
 
 `October 2020 - Current`
-__Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Institute for Gene Therapy (TIGET)
-    - Retrovirus-host interactions and innate immunity to gene transfer: Prof. Anna Kajaste-Rudnitski
-    - Epigenetic regulation and targeted genome editing: Prof. Angelo Lombardo
-    - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
+__Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Institute for Gene Therapy (TIGET)   
+     
+   - Retrovirus-host interactions and innate immunity to gene transfer: Prof. Anna Kajaste-Rudnitski
+   - Epigenetic regulation and targeted genome editing: Prof. Angelo Lombardo
+   - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
 
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries 
