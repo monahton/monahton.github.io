@@ -18,7 +18,7 @@ __Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Instit
    - Epigenetic regulation and targeted genome editing: Prof. Angelo Lombardo
    - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
 
-#  
+  
 
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries organization, California - USA: Teaching foundational coding and data science skills to researchers in worldwide workshops.  
@@ -30,20 +30,22 @@ __Software and Data Carpentry Instructor__, The Carpentries organization, Califo
    - ***University of Stuttgart:*** Software carpentry instructor: Building programs with python, Nov 21 - 22, 2019
    - ***University of Milano Bicocca:*** Data Carpentry instructor: Introduction to Python and data visualisation, Feb 14 - 15, 2019
 
-#  
+  
 
 `October 2018 - Current`
 __Bioinformatics Tutor__, University of Pavia
+   - Bioinformatics Course of the Masters in Molecular Biology and Genetics
+   - Training and practical sessions in bioinformatics tools
 
-- Bioinformatics Course of the Masters in Molecular Biology and Genetics
-- Training and practical sessions in bioinformatics tools
+  
 
 `October 2017 - September 2020`
 __PhD internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council
+   - Laboratory of Computational Biology
+   - Project: Characterization of long non-coding RNAs genomic and splicing features
+   - PI: Prof. Silvia Bione
 
-- Laboratory of Computational Biology
-- Project: Characterization of long non-coding RNAs genomic and splicing features
-- PI: Prof. Silvia Bione
+  
 
 `July 2017 - October 2017`
 __ERASMUS+ Traineeship__, Institute of Plant Genetics, Polish Academy of Sciences
