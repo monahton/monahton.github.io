@@ -11,6 +11,10 @@ permalink: /CV/
 - _Email:_ <span style="color:red"> aboualezz.monah@hsr.it </span>
 
 
+---
+
+
+
 ## Professional Experience
 
 `October 2020 - Current`
@@ -77,3 +81,7 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
 - Department of Plant Breeding and Improvement
     - Project: Identification of new promising varieties of Triticum aestivum, Hordeum vulgare, and Lens culinaris with high productivity, good grain quality and good adaptation to different climatic conditions.
     - PI: Eng. Rabih Kabalan
+
+
+
+
