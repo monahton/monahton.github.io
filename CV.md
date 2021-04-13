@@ -131,6 +131,10 @@ _Language Skills_
 - Proficient in English (B2) and Italian (B1) Languages
 - Novice in French (A1) and Polish (A1) Languages
 
+
+---
+
+
 ## Awards
 
 `2019`
@@ -147,6 +151,11 @@ Fellowship Grant, _Besta Neurological Institute_
 
 `2017`
 ERASMUS+ fellowship, _University of Pavia_
+
+
+---
+
+
 
 ## Publications
 
