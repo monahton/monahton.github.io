@@ -83,5 +83,137 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
     - PI: Eng. Rabih Kabalan
 
 
+---
+
+## Education
+
+`2017 - 2020`
+__University of Pavia__
+PhD in Genetics, Molecular and Cellular Biology
+
+`2015 - 2017`
+__University of Pavia__
+Masters Degree in Molecular Biology and Genetics
+
+`2012 - 2015`
+__Lebanese University__
+Bachelor Degree in Earth and Life Sciences
+
+
+---
+
+
+## Skills
+
+_Bioinformatics Skills_
+
+- Proficient in genomics, transcriptomics, proteomics data analysis
+- Proficient knowledge of programming languages: R, python, bash, perl
+- Proficient knowledge of cloud computing and AWS
+- Proficient knowledge in machine learning approaches
+- Proficient knowledge of Windows 7/8/10, MacOS and Linux operative systems
+- Proficient knowledge in version control and source code management tools
+- Basic knowledge in SQL
+- Proficient knowledge in Microsoft office suite
+- Image Analysis Software: Adobe Photoshop, ImageJ, Cell F, GraphPad
+  
+_Wet Laboratory Skills_
+
+- Proficient in Microscopy utilization and samples preparation: electron microscopy (ZEISS EM 900), electron spectroscopic imaging, fluorescence microscopy, light microscopy (bright field, dark field, phase contrast, DIC)
+- Proficient in molecular biology lab techniques: DNA/RNA extraction, PCR, gene cloning, protein extraction, western blot, ELISA
+- proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
+biochemical testing.
+- _In vitro_ plant cell culture
+  
+_Language Skills_
+
+- Mother-tongue Language: Arabic
+- Proficient in English (B2) and Italian (B1) Languages
+- Novice in French (A1) and Polish (A1) Languages
+
+## Awards
+
+`2019`
+Best Poster Prize, _EMBL-EMBO Symposium: The Non-Coding Genome_
+
+`2018`
+Fellowship Grant, _AIRC Foundation_
+
+`2018`
+Travel Grant, _INTEROMICS_
+
+`2017`
+Fellowship Grant, _Besta Neurological Institute_
+
+`2017`
+ERASMUS+ fellowship, _University of Pavia_
+
+## Publications
+
+_Articles_
+  
+`2021`
+Unali G, Giordano AMS, Cuccovillo I, Abou Alezz M, Apolonia L, Merelli I, Malim MH, Petrillo C, Kajaste-Rudnitski A. The lysine-rich intracellular loop and cell type-specific co-factors are required for IFITM3 antiviral immunity in hematopoietic stem cells. bioRxiv. doi.org/10.1101/2021.04.06.438585
+
+`2020`
+Abou Alezz M, Celli L, Belotti G, Lisa A and Bione S. 2020. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
+Suggest Their Role in Gene Expression Regulation. Front. Genet. 11:488. doi:10.3389/fgene.2020.00488
+
+  
+_Software_
+  
+`2020`
+Abou Alezz M, Salviati L, Alfieri R, Bione S. 2020. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
+R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zenodo.3605995
+
+
+## Oral Presentations and Abstracts
+
+`2020`
+Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
+protein-coding genes suggest their role in gene expression regulation - _22nd EMBL PhD Symposium: The Roaring 20s_ - Online
+conference
+
+`2020`
+Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
+protein-coding genes suggest their role in gene expression regulation" - _Cancer Science Institute of Singapore: 6th RNA Biology Symposium 2020_ - Online
+conference
+
+`2020`
+Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
+protein-coding genes suggest their role in gene expression regulation" - _25th Annual meeting of the RNA Society_ - Online
+conference
+
+`2020`
+Abou Alezz M, Celli L, Belotti G, Lisa A, Bione S. Unexpected features of GC-AG introns in long non-coding and protein-coding
+genes suggest a new role as regulatory elements – _Pavia 3rd Annual Joint Symposium – LIFE SCIENCE 2020_ - Pavia, Italy
+
+`2019`
+Abou Alezz M, Celli L, Belotti G, Bione S. Characterization of the genomic and splicing features of long non-coding RNAs using
+bioinformatics approaches - _EMBL Symposia 2019: The Non-Coding Genome_ - Heidelberg, Germany
+
+`2018`
+Borowska M, Abou Alezz M, Jarząb M, Gomes C, Balestrazzi A, Paiva J. Preliminary overview on conserved miRNAs in Salix
+purpurea L. - _Integrative Plant Biology Conference, IPG PAS_ - Poznań, Poland
+
+`2018`
+Abou Alezz M, Celli L, Bione S. Computational approach towards genomic characterization of human long non-coding RNA -
+_EMBO Workshop 2018: From epigenome towards epitranscriptome in cell fate choice_ - Capri, Italy
+
+`2018`
+Masiello I, Siciliani S, Abou Alezz M, Bina V, Casali C, Stortiero M, Tollemeto V, Biggiogera M. High resolution dissection of
+interphase chromatin. Is 5-methylcytosine the main character in chromatin condensation? – _22nd International Chromosome
+Conference_ - Prague, Czech Republic
+
+`2017`
+Biggiogera M, Abou Alezz M, Bina V, Stortiero M, Tollemeto V, Masiello I. Heterogeneity of perichromatin fibril-associated factors -
+_25th Wilhelm Bernhard Workshop on the Cell Nucleus_ – Nizhny Novgorod, Russia
+
+`2016`
+Biggiogera M, Tollemeto V, Bina V, Abou Alezz M, Masiello I. Transcription time window applied to RNA modifications in HeLa cells
+– _Nuclear structure and dynamics through the microscopes symposium_ - Pavia, Italy
+
+<p align="right">_Last updated: 2021-04-13_</p>
+
 
 
