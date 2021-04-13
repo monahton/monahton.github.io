@@ -8,7 +8,7 @@ permalink: /CV/
 
 - _Address:_ Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
 - _Date of Birth:_ 03/04/1994
-- _Email:_ aboualezz.monah@hsr.it
+- _Email:_ aboualezz.monah@hsr.it <span style="color:blue">some *This is Blue italic.* text</span>
 
 
 ## Professional Experience
@@ -51,7 +51,7 @@ __PhD internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, N
   
   
 `July 2017 - October 2017`
-__ERASMUS+ Traineeship__, Institute of Plant Genetics, Polish Academy of Sciences, Poznan - Poland <h3 style="color:#ff0000">Danger</h3>
+__ERASMUS+ Traineeship__, Institute of Plant Genetics, Polish Academy of Sciences, Poznan - Poland
 
 - Laboratory of Plant Genetics
 - Project: Bioinformatics characterization and identification of miRNAs in woody species
