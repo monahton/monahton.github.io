@@ -8,7 +8,7 @@ permalink: /CV/
 
 - _Address:_ Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
 - _Date of Birth:_ 03/04/1994
-- _Email:_ aboualezz.monah@hsr.it <span style="color:blue">some *This is Blue italic.* text</span>
+- _Email:_ <span style="color:red"> aboualezz.monah@hsr.it </span>
 
 
 ## Professional Experience
