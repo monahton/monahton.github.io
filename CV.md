@@ -88,15 +88,15 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
 ## Education
 
 `2017 - 2020`
-__University of Pavia__
+__University of Pavia,__
 PhD in Genetics, Molecular and Cellular Biology
 
 `2015 - 2017`
-__University of Pavia__
+__University of Pavia,__
 Masters Degree in Molecular Biology and Genetics
 
 `2012 - 2015`
-__Lebanese University__
+__Lebanese University,__
 Bachelor Degree in Earth and Life Sciences
 
 
@@ -123,7 +123,7 @@ _Wet Laboratory Skills_
 - Proficient in molecular biology lab techniques: DNA/RNA extraction, PCR, gene cloning, protein extraction, western blot, ELISA
 - proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
 biochemical testing.
-- _In vitro_ plant cell culture
+- *In vitro* plant cell culture
   
 _Language Skills_
 
