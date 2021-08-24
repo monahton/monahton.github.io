@@ -123,7 +123,7 @@ _Wet Laboratory Skills_
 - Proficient in molecular biology lab techniques: DNA/RNA extraction, PCR, gene cloning, protein extraction, western blot, ELISA
 - proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
 biochemical testing.
-- _In vitro_ plant cell culture
+- In vitro plant cell culture
   
 _Language Skills_
 
