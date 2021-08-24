@@ -123,7 +123,7 @@ _Wet Laboratory Skills_
 - Proficient in molecular biology lab techniques: DNA/RNA extraction, PCR, gene cloning, protein extraction, western blot, ELISA
 - proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
 biochemical testing.
-- *In vitro* plant cell culture
+- _In vitro_ plant cell culture
   
 _Language Skills_
 
@@ -136,6 +136,9 @@ _Language Skills_
 
 
 ## Awards
+
+`2021`
+James Taylor Fellowship, _2021 Galaxy Community Conference (GCC2021)_
 
 `2019`
 Best Poster Prize, _EMBL-EMBO Symposium: The Non-Coding Genome_
@@ -226,7 +229,7 @@ Biggiogera M, Tollemeto V, Bina V, Abou Alezz M, Masiello I. Transcription time 
 ---
 
 
-<p align="right">Last updated: 2021-04-13</p>
+<p align="right">Last updated: 2021-08-24</p>
 
 
 
