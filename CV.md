@@ -23,28 +23,7 @@ __Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Instit
    - Epigenetic regulation and targeted genome editing: Prof. Angelo Lombardo
    - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
 
-  
 
-`September 2019 - Current`
-__Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
-
-- Teaching foundational coding and data science skills to researchers in worldwide workshops:
-- Selected workshops:
-  - ***Genentech, A member of the Roche group:*** Data Carpentry instructor: Data analysis and visualization in R, Mar 22 - 25, 2021
-  - ***George Washington University:*** Genomics workshop instructor: Variant calling workflow using AWS, Mar 04 - 12, 2021
-  - ***Max Delbrück Center for Molecular Medicine:*** Data Carpentry instructor: Exploratory analysis of biological data, Feb 16 - 19, 2021
-  - ***Rutgers University:*** Genomics workshop instructor: Project management/ Introduction to cloud computing, Jan 26 - 29, 2021
-  - ***NIH Network of the National Library of Medicine:*** Library Carpentry instructor: Databases and SQL, Jan 07 - 08, 2021
-  - ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and programming in Python, Dec 14 - 17, 2020
-
-  
-
-`October 2018 - September 2020`
-__Bioinformatics Tutor__, University of Pavia, Pavia - Italy
-   - Bioinformatics Course - Masters in Molecular Biology and Genetics
-   - Training and practical sessions in bioinformatics tools
-
-  
 
 `October 2017 - September 2020`
 __PhD internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council, Pavia - Italy
@@ -83,7 +62,38 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
     - PI: Eng. Rabih Kabalan
 
 
+
 ---
+
+
+
+## Teaching Experience
+
+
+`September 2019 - Current`
+__Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
+
+- Teaching foundational coding and data science skills to researchers in worldwide workshops:
+- Selected workshops:
+  - ***Genentech, A member of the Roche group:*** Data Carpentry instructor: Data analysis and visualization in R, Mar 22 - 25, 2021
+  - ***George Washington University:*** Genomics workshop instructor: Variant calling workflow using AWS, Mar 04 - 12, 2021
+  - ***Max Delbrück Center for Molecular Medicine:*** Data Carpentry instructor: Exploratory analysis of biological data, Feb 16 - 19, 2021
+  - ***Rutgers University:*** Genomics workshop instructor: Project management/ Introduction to cloud computing, Jan 26 - 29, 2021
+  - ***NIH Network of the National Library of Medicine:*** Library Carpentry instructor: Databases and SQL, Jan 07 - 08, 2021
+  - ***Genentech, A member of the Roche group:*** Software Carpentry instructor: Plotting and programming in Python, Dec 14 - 17, 2020
+
+  
+
+`October 2018 - September 2020`
+__Bioinformatics Tutor__, University of Pavia, Pavia - Italy
+   - Bioinformatics Course - Masters in Molecular Biology and Genetics
+   - Training and practical sessions in bioinformatics tools
+
+
+
+
+---
+
 
 ## Education
 
