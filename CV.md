@@ -17,6 +17,13 @@ permalink: /CV/
 
 ## Professional Experience
 
+
+`September 2021 - Current`
+__Maintainer of Data Carpentry Lessons__, The Carpentries organization, California - USA   
+   - Maintainer of core lessons of Data Carpentry
+   - Review submissions, discussions of change and set standards for the organization as a whole
+
+
 `October 2020 - Current`
 __Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
    - Retrovirus-host interactions and innate immunity to gene transfer: Prof. Anna Kajaste-Rudnitski
@@ -75,6 +82,9 @@ __Software and Data Carpentry Instructor__, The Carpentries organization, Califo
 
 - Teaching foundational coding and data science skills to researchers in worldwide workshops:
 - Selected workshops:
+  - ***Florida International University***: Software Carpentry instructor: R for reproducible analysis, Sep 13 - 16, 2021
+  - ***Max Delbrück Center for Molecular Medicine:*** Genomics workshop instructor: The Unix shell, Jun 01 - 04, 2021
+  - ***Atlanta University Center:*** Genomics workshop instructor: Variant calling workflow using AWS, May 20 - 25, 2021
   - ***Genentech, A member of the Roche group:*** Data Carpentry instructor: Data analysis and visualization in R, Mar 22 - 25, 2021
   - ***George Washington University:*** Genomics workshop instructor: Variant calling workflow using AWS, Mar 04 - 12, 2021
   - ***Max Delbrück Center for Molecular Medicine:*** Data Carpentry instructor: Exploratory analysis of biological data, Feb 16 - 19, 2021
@@ -239,7 +249,7 @@ Biggiogera M, Tollemeto V, Bina V, Abou Alezz M, Masiello I. Transcription time 
 ---
 
 
-<p align="right">Last updated: 2021-08-24</p>
+<p align="right">Last updated: 2021-09-17</p>
 
 
 
