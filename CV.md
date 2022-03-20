@@ -20,9 +20,8 @@ permalink: /CV/
 
 `September 2021 - Current`
 __Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
-   <dt>center</dt>
    - Maintainer of core lessons of Data Carpentry
-   - Review submissions, discussions of change and set standards for the organization as a whole</dd>
+   - Review submissions, discussions of change and set standards for the organization as a whole
 
 
 `October 2020 - Current`
