@@ -19,7 +19,7 @@ permalink: /CV/
 
 
 `September 2021 - Current`
-__Maintainer of Data Carpentry Lessons__, The Carpentries organization, California - USA   
+__Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
    - Maintainer of core lessons of Data Carpentry
    - Review submissions, discussions of change and set standards for the organization as a whole
 
@@ -82,6 +82,7 @@ __Software and Data Carpentry Instructor__, The Carpentries organization, Califo
 
 - Teaching foundational coding and data science skills to researchers in worldwide workshops:
 - Selected workshops:
+  - ***Jackson Laboratory***: Genomics workshop instructor: Variant calling workflow using AWS, Nov 01 - 04, 2021
   - ***Florida International University***: Software Carpentry instructor: R for reproducible analysis, Sep 13 - 16, 2021
   - ***Max Delbrück Center for Molecular Medicine:*** Genomics workshop instructor: The Unix shell, Jun 01 - 04, 2021
   - ***Atlanta University Center:*** Genomics workshop instructor: Variant calling workflow using AWS, May 20 - 25, 2021
@@ -183,7 +184,10 @@ ERASMUS+ fellowship, _University of Pavia_
 ## Publications
 
 _Articles_
-  
+
+`2022`
+Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh  C, Della Volpe L, Migliara A, Valsoni S, Genua M, Dzieciatkowska M, Frati G, Tahraoui-Bories J, Giliani SC, Orcesi S, Fazzi E, Ostuni R, D'Alessandro A, Di Micco R, Merelli I, Lombardo A, Reijns MAM, Gromak N, Gritti A, Kajaste-Rudnitski A. DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti res syndrome astrocytes. J Exp Med. 2022. doi.org/10.1084/jem.20211121
+
 `2021`
 Unali G, Giordano AMS, Cuccovillo I, Abou Alezz M, Apolonia L, Merelli I, Malim MH, Petrillo C, Kajaste-Rudnitski A. The lysine-rich intracellular loop and cell type-specific co-factors are required for IFITM3 antiviral immunity in hematopoietic stem cells. bioRxiv. doi.org/10.1101/2021.04.06.438585
 
@@ -200,6 +204,9 @@ R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zeno
 
 
 ## Oral Presentations and Abstracts
+
+`2021`
+Unali G, Castiglioni I, Davide G, Matafora V, Abou Alezz M, Merelli I, De Matteo M, Di Fabio R, Bachi A, Kajaste-Rudnitski A. Identification of Hematopoietic Stem Cell-Specific Cyclosporine H Interactors for Improved Gene Therapy Protocols – _Molecular Therapy Conference_ – Online conference
 
 `2020`
 Abou Alezz M, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
