@@ -20,8 +20,9 @@ permalink: /CV/
 
 `September 2021 - Current`
 __Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
+   <dt>center</dt>
    - Maintainer of core lessons of Data Carpentry
-   - Review submissions, discussions of change and set standards for the organization as a whole
+   - Review submissions, discussions of change and set standards for the organization as a whole</dd>
 
 
 `October 2020 - Current`
@@ -186,7 +187,7 @@ ERASMUS+ fellowship, _University of Pavia_
 _Articles_
 
 `2022`
-Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh  C, Della Volpe L, Migliara A, Valsoni S, Genua M, Dzieciatkowska M, Frati G, Tahraoui-Bories J, Giliani SC, Orcesi S, Fazzi E, Ostuni R, D'Alessandro A, Di Micco R, Merelli I, Lombardo A, Reijns MAM, Gromak N, Gritti A, Kajaste-Rudnitski A. DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti res syndrome astrocytes. J Exp Med. 2022. doi.org/10.1084/jem.20211121
+Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh C, Della Volpe L, Migliara A, Valsoni S, Genua M, Dzieciatkowska M, Frati G, Tahraoui-Bories J, Giliani SC, Orcesi S, Fazzi E, Ostuni R, D'Alessandro A, Di Micco R, Merelli I, Lombardo A, Reijns MAM, Gromak N, Gritti A, Kajaste-Rudnitski A. DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti res syndrome astrocytes. J Exp Med. 2022. doi.org/10.1084/jem.20211121
 
 `2021`
 Unali G, Giordano AMS, Cuccovillo I, __Abou Alezz M__, Apolonia L, Merelli I, Malim MH, Petrillo C, Kajaste-Rudnitski A. The lysine-rich intracellular loop and cell type-specific co-factors are required for IFITM3 antiviral immunity in hematopoietic stem cells. bioRxiv. doi.org/10.1101/2021.04.06.438585
