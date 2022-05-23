@@ -76,6 +76,11 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
 
 ## Teaching Experience
 
+`December 2021 - Current`
+__Bioinformatics Trainer__, Harvard Stem Cell Institute, Boston - USA  
+   - Bioinformatics workshops instructor and organizer
+   - Training graduate and undergraduate biologists in Bioinformatics analyses
+
 
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
@@ -205,6 +210,9 @@ R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zeno
 
 ## Oral Presentations and Abstracts
 
+`2022`
+Costa Verdera H, __Abou Alezz M__, Cavalca E, Meneghini V, Mangiameli E, Giordano AMS, Singh I, Kuranda K, Ditadi A, Merelli I, Gritti A, Mingozzi F, Kajaste-Rudnitski A. Investigating the Role of Innate Immune Signaling in AAV-Mediated Gene Transfer in hiPSC-Derived CNS Models - _ASGCT 25th Annual Meeting_ - Washington D.C, USA
+
 `2021`
 Unali G, Castiglioni I, Davide G, Matafora V, __Abou Alezz M__, Merelli I, De Matteo M, Di Fabio R, Bachi A, Kajaste-Rudnitski A. Identification of Hematopoietic Stem Cell-Specific Cyclosporine H Interactors for Improved Gene Therapy Protocols – _Molecular Therapy Conference_ – Online conference
 
@@ -256,7 +264,7 @@ Biggiogera M, Tollemeto V, Bina V, __Abou Alezz M__, Masiello I. Transcription t
 ---
 
 
-<p align="right">Last updated: 2022-03-20</p>
+<p align="right">Last updated: 2022-05-23</p>
 
 
 
