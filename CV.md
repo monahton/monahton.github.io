@@ -192,8 +192,10 @@ _Articles_
 `2023`
 Unali G, Crivicich G, Pagani I, __Abou Alezz M__, Folchini F, Valeri E, Matafora V, Reisz JA, Giordano AMS, Cuccovillo I, Butta GM, Donnici L, D'Alessandro A, De Francesco R, Manganaro L, Cittaro D, Merelli I, Petrillo C, Bachi A, Vicenzi E, Kajaste-Rudnitski A. Interferon-inducible phospholipids govern IFITM3-dependent endosomal antiviral immunity. EMBO J. 2023. doi.org/10.15252/embj.2022112234
 
+`2023`
 Scarfò R, __Abou Alezz M__, El Khoury M, Gersch A, Li ZY, Luff S, Valsoni S, Cascione S, Didelon E, Merelli I, Freund JN, Sturgeon C, Tavian M, Ditadi A. CD32 allows capturing blood cells emergence in slow motion during human embryonic development. bioRxiv 2023. doi.org/10.1101/2023.03.23.530597
 
+`2023`
 Giordano AMS, __Abou Alezz M__, Merelli I, Kajaste-Rudnitski A. Protocol to differentiate monolayer human induced pluripotent stem cells into inflammatory responsive astrocytes. STAR Protoc. 2023. doi.org/10.1016/j.xpro.2023.102142
 
 `2022`
