@@ -187,19 +187,19 @@ ERASMUS+ fellowship, _University of Pavia_
 
 ## Student research supervision
 
-`2017`
-__Monaco L__ (MSc)
+`2019`
+__Salviati L__ (MSc);
+__Nicastro A__ (MSc);
+__Belotti G__ (MSc);
+__Roasria S__ (BSc)
 
 `2018`
 __Celli L__ (MSc);
 __Postiglione U__ (MSc);
 __Baldrighi GN__ (BSc)
 
-`2019`
-__Salviati L__ (MSc);
-__Nicastro A__ (MSc);
-__Belotti G__ (MSc);
-__Roasria S__ (BSc)
+`2017`
+__Monaco L__ (MSc)
 
 ---
 
