@@ -191,15 +191,15 @@ ERASMUS+ fellowship, _University of Pavia_
 __Monaco L__ (MSc)
 
 `2018`
-__Celli L__ (MSc)
-__Postiglione U__ (MSc)
+__Celli L__ (MSc);
+__Postiglione U__ (MSc);
 __Baldrighi GN__ (BSc)
 
 `2019`
-__Salviati L__ (MSc)
-__Nicastro A__ (MSc)
-__Belotti G__ (MSc)
-__Roasria S__ (BSc)
+__Salviati L__ (MSc);
+__Nicastro A__ (MSc);
+__Belotti G__ (MSc);
+__Roasria S__ (BSc);
 
 ---
 
