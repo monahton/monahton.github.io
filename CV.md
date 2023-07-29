@@ -199,7 +199,7 @@ __Baldrighi GN__ (BSc)
 __Salviati L__ (MSc);
 __Nicastro A__ (MSc);
 __Belotti G__ (MSc);
-__Roasria S__ (BSc);
+__Roasria S__ (BSc)
 
 ---
 
