@@ -88,13 +88,15 @@ __Software and Data Carpentry Instructor__, The Carpentries organization, Califo
 - Teaching foundational coding and data science skills to researchers in worldwide workshops
 - 25+ workshops delivered in Europe, USA and Saudi Arabia
 - Selected workshops:
+  - ***United States Centers for Disease Control (CDC)***: Genomics workshop instructor: Variant calling workflow using AWS
   - ***Jackson Laboratory***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***Genentech, A member of the Roche group:*** Data Carpentry instructor: Data analysis and visualization in R
-  - ***Max Delbrück Center for Molecular Medicine:*** Genomics workshop instructor: The Unix shell
-  - ***Rutgers University:*** Genomics workshop instructor: Project management/ Introduction to cloud computing
-  - ***Atlanta University Center:*** Genomics workshop instructor: Variant calling workflow using AWS
-  - ***George Washington University:*** Genomics workshop instructor: Variant calling workflow using AWS
-  - ***NIH Network of the National Library of Medicine:*** Library Carpentry instructor: Databases and SQL
+  - ***Genentech, A member of the Roche group***: Data Carpentry instructor: Data analysis and visualization in R
+  - ***Max Delbrück Center for Molecular Medicine (MDC)***: Genomics workshop instructor: Variant calling workflow using AWS
+  - ***Rutgers University***: Genomics workshop instructor: Project management/ Introduction to cloud computing
+  - ***Saudi Food and Drug Authority (sFDA)***: Data analysis and visualization in R
+  - ***Atlanta University Center***: Genomics workshop instructor: Variant calling workflow using AWS
+  - ***George Washington University***: Genomics workshop instructor: Variant calling workflow using AWS
+  - ***NIH Network of the National Library of Medicine***: Library Carpentry instructor: Databases and SQL
   - ***Florida International University***: Software Carpentry instructor: R for reproducible analysis
 
   
@@ -180,6 +182,24 @@ Fellowship Grant, _Besta Neurological Institute_
 `2017`
 ERASMUS+ fellowship, _University of Pavia_
 
+
+---
+
+## Student research supervision
+
+`2017`
+__Monaco L__ (MSc)
+
+`2018`
+__Celli L__ (MSc)
+__Postiglione U__ (MSc)
+__Baldrighi GN__ (BSc)
+
+`2019`
+__Salviati L__ (MSc)
+__Nicastro A__ (MSc)
+__Belotti G__ (MSc)
+__Roasria S__ (BSc)
 
 ---
 
