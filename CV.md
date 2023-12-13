@@ -212,6 +212,9 @@ __Monaco L__ (MSc)
 _Articles_
 
 `2023`
+Valeri E, Unali G, Piras F, __Abou Alezz M__, Pais G, Benedicenti F, Lidonnici MR, Cuccovillo I, Castiglioni I, Arévalo S, Spinozzi G, Merelli I, Behrendt R, Oo A, Kim B, Landau NR, Ferrari G, Montini E, Kajaste-Rudnitski A. Removal of innate immune barriers allows efficient transduction of quiescent human hematopoietic stem cells. Mol Ther. 2023. doi: 10.1016/j.ymthe.2023.11.020
+
+`2023`
 Unali G, Crivicich G, Pagani I, __Abou Alezz M__, Folchini F, Valeri E, Matafora V, Reisz JA, Giordano AMS, Cuccovillo I, Butta GM, Donnici L, D'Alessandro A, De Francesco R, Manganaro L, Cittaro D, Merelli I, Petrillo C, Bachi A, Vicenzi E, Kajaste-Rudnitski A. Interferon-inducible phospholipids govern IFITM3-dependent endosomal antiviral immunity. EMBO J. 2023. doi.org/10.15252/embj.2022112234
 
 `2023`
