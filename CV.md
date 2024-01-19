@@ -17,19 +17,15 @@ permalink: /CV/
 
 ## Professional Experience
 
-
-`September 2021 - Current`
-__Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
-   - Maintainer of core lessons of Data Carpentry
-   - Review submissions, discussions of change and set standards for the organization as a whole
-
-
 `October 2020 - Current`
 __Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
    - Retrovirus-host interactions and innate immunity to gene transfer: Prof. Anna Kajaste-Rudnitski
-   - Epigenetic regulation and targeted genome editing: Prof. Angelo Lombardo
    - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
 
+`September 2021 - September 2023`
+__Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
+   - Maintainer of core lessons of Data Carpentry
+   - Review submissions, discussions of change and set standards for the organization as a whole
 
 
 `October 2017 - September 2020`
@@ -76,10 +72,10 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
 
 ## Teaching Experience
 
-`December 2021 - July 2022`
-__Bioinformatics Trainer__, Harvard Stem Cell Institute, Boston - USA  
+`January 2023 - Current`
+__Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
    - Bioinformatics workshops instructor and organizer
-   - Training graduate and undergraduate biologists in Bioinformatics analyses
+   - Training graduate and post-graduate biologists in Bioinformatics analyses
 
 
 `September 2019 - Current`
@@ -88,6 +84,7 @@ __Software and Data Carpentry Instructor__, The Carpentries organization, Califo
 - Teaching foundational coding and data science skills to researchers in worldwide workshops
 - 25+ workshops delivered in Europe, USA and Saudi Arabia
 - Selected workshops:
+  - ***Harvard Stem Cell Institute***: Genomics workshop instructor: Variant calling workflow using AWS
   - ***United States Centers for Disease Control (CDC)***: Genomics workshop instructor: Variant calling workflow using AWS
   - ***Jackson Laboratory***: Genomics workshop instructor: Variant calling workflow using AWS
   - ***Genentech, A member of the Roche group***: Data Carpentry instructor: Data analysis and visualization in R
@@ -297,6 +294,6 @@ Biggiogera M, Tollemeto V, Bina V, __Abou Alezz M__, Masiello I. Transcription t
 ---
 
 
-<p align="right">Last updated: 2023-03-30</p>
+<p align="right">Last updated: 2024-01-20</p>
 
 
