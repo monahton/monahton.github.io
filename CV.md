@@ -208,6 +208,9 @@ __Monaco L__ (MSc)
 
 _Articles_
 
+`2024`
+Scarfò R, Randolph LN, __Abou Alezz M__, El Khoury M, Gersch A, Li Z, Luff S, Tavosanis A, Ramondo GF, Valsoni S, Cascione S, Didelon E, Passerini L, Amodio G, Brandas C, Villa A, Gregori S, Merelli I, Freund JN, Sturgeon C, Tavian M, Ditadi A. CD32 captures committed haemogenic endothelial cells during human embryonic development. Nat Cell Biol. 2024. doi: 10.1038/s41556‐024‐01403‐0
+
 `2023`
 Valeri E, Unali G, Piras F, __Abou Alezz M__, Pais G, Benedicenti F, Lidonnici MR, Cuccovillo I, Castiglioni I, Arévalo S, Spinozzi G, Merelli I, Behrendt R, Oo A, Kim B, Landau NR, Ferrari G, Montini E, Kajaste-Rudnitski A. Removal of innate immune barriers allows efficient transduction of quiescent human hematopoietic stem cells. Mol Ther. 2023. doi: 10.1016/j.ymthe.2023.11.020
 
