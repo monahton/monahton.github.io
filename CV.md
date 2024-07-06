@@ -72,6 +72,11 @@ __Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal 
 
 ## Teaching Experience
 
+`March 2024 - Current`
+__Bioinformatics Trainer__, German Cancer Research Center, Heidelberg - Germany  
+   - Bioinformatics workshops instructor and organizer
+   - Training graduate and post-graduate biologists in Bioinformatics analyses
+
 `January 2023 - Current`
 __Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
    - Bioinformatics workshops instructor and organizer
