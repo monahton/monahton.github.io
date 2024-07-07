@@ -77,6 +77,7 @@ __Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg - G
    - Bioinformatics workshops instructor and organizer
    - Training graduate and post-graduate biologists in Bioinformatics analyses
 
+
 `January 2023 - Current`
 __Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
    - Bioinformatics workshops instructor and organizer
@@ -212,6 +213,9 @@ __Monaco L__ (MSc)
 ## Publications
 
 _Articles_
+
+`2024`
+Valeri E,Breggion S,Barzaghi F,Abou Alezz M,Crivicich G,Pagani I,Forneris F,Sartirana C,Costantini M,Costi S,Marino A,Chiarotto E,Colavito D, Cimaz R, Merelli I, Vicenzi E, Aiuti A, Kajaste‐Rudnitski A. A novel STING variant triggers endothelial toxicity and SAVI disease. J Exp Med. 2024. doi: 10.1084/jem.20232167
 
 `2024`
 Scarfò R, Randolph LN, __Abou Alezz M__, El Khoury M, Gersch A, Li Z, Luff S, Tavosanis A, Ramondo GF, Valsoni S, Cascione S, Didelon E, Passerini L, Amodio G, Brandas C, Villa A, Gregori S, Merelli I, Freund JN, Sturgeon C, Tavian M, Ditadi A. CD32 captures committed haemogenic endothelial cells during human embryonic development. Nat Cell Biol. 2024. doi: 10.1038/s41556‐024‐01403‐0
