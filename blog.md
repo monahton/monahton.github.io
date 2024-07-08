@@ -1,9 +1,10 @@
 ---
 layout: page
+title: All Blog Posts
 permalink: /blog/
 ---
 
-# Transitioning from Wet Lab to Bioinformatics: A PhD Level Journey
+# Transitioning from Wet Lab to Bioinformatics: From Lab Coats to Laptop Quotes
 
 Bioinformatics is an interdisciplinary field that merges biology, computer science, and information technology. For researchers transitioning from wet lab to bioinformatics, this journey can be both exciting and challenging. This blog aims to provide insights that can ease the process.
 
