@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All Blog Posts
+title: Sculpting Data: The Art of Bioinformatics
 permalink: /blog/
 ---
 
