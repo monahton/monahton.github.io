@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Sculpting Data: The Art of Bioinformatics
 permalink: /blog/
 ---
 
