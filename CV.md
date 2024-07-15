@@ -19,8 +19,9 @@ permalink: /CV/
 
 `October 2020 - Current`
 __Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
-   - Retrovirus-host interactions and innate immunity to gene transfer: Prof. Anna Kajaste-Rudnitski
-   - Human hematopoietic development and disease modeling: Dr. Andrea Ditadi
+   - Conduct bioinformatics analysis and experimental design, develop and deploy data anakysis workflows for research projects on retrovirus-host interactions and human hematopoietic development.
+   - Collaborate with leading researchers, Prof. Anna Kajaste-Rudnitski and Prof. Andrea Ditadi, to support groundbreaking studies.
+
 
 `September 2021 - September 2023`
 __Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
