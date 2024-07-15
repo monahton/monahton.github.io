@@ -88,7 +88,7 @@ __Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), B
 __Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
 
 - Teaching foundational coding and data science skills to researchers in worldwide workshops
-- 25+ workshops delivered in Europe, USA and Saudi Arabia
+- 30+ workshops delivered in Europe, USA and Saudi Arabia
 - Selected workshops:
   - ***Harvard Stem Cell Institute***: Genomics workshop instructor: Variant calling workflow using AWS
   - ***United States Centers for Disease Control (CDC)***: Genomics workshop instructor: Variant calling workflow using AWS
@@ -137,29 +137,29 @@ Bachelor Degree in Earth and Life Sciences
 
 _Bioinformatics Skills_
 
-- Proficient in -omics data analysis (genomics, transcriptomics, proteomics, metabolomics)
-- Proficient knowledge of programming languages: R, python, bash, perl
-- Proficient knowledge of cloud computing and AWS
-- Proficient knowledge in machine learning approaches
-- Proficient knowledge of Windows 7/8/10, MacOS and Linux operative systems
-- Proficient knowledge in version control and source code management tools
-- Basic knowledge in SQL
-- Proficient knowledge in Microsoft office suite
-- Image Analysis Software: Adobe Photoshop, ImageJ, Cell F, GraphPad
+- Extensive experience in -omics data analysis: Expertise in genomics, transcriptomics, proteomics, and metabolomics data interpretation and integration
+- Advanced Proficiency in High-Throughput Sequencing Data Analysis: In-depth analysis of RNA-seq, single-cell RNA-seq, ChIP-seq, and ATAC-seq datasets, including quality control, alignment, differential expression analysis, and peak calling
+- Extensive experience in programming languages: R, Python, Bash, Perl, Julia
+- Skilled in leveraging cloud platforms, particularly AWS, for large-scale data processing and storage solutions
+- Proficient in applying machine learning algorithms and techniques to biological data for predictive modeling and pattern recognition
+- Comprehensive knowledge of Windows 7/8/10, macOS, and Linux environments
+- Expertise in Git, Bitbucket, Gitlab and GitHub for collaborative development, version tracking, and source code management
+- Basic knowledge in SQL for querying and managing biological databases.
+- Proficient in Microsoft Office Suite for professional documentation, data presentation, and communication.
+- Image Analysis and Visualization Software: Skilled in using Adobe Photoshop, ImageJ, Cell F, and GraphPad for image analysis, scientific visualization, and figure preparation.
   
 _Wet Laboratory Skills_
 
 - Proficient in Microscopy utilization and samples preparation: electron microscopy (ZEISS EM 900), electron spectroscopic imaging, fluorescence microscopy, light microscopy (bright field, dark field, phase contrast, DIC)
 - Proficient in molecular biology lab techniques: DNA/RNA extraction, PCR, gene cloning, protein extraction, western blot, ELISA
-- proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
+- Proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
 biochemical testing.
-- In vitro plant cell culture
   
 _Language Skills_
 
 - Mother-tongue Language: Arabic
 - Proficient in English (B2) and Italian (B1) Languages
-- Novice in French (A1) and Polish (A1) Languages
+- Novice in French (A2) and Polish (A2) Languages
 
 
 ---
