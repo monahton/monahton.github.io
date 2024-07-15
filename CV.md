@@ -158,7 +158,7 @@ biochemical testing.
 _Language Skills_
 
 - Mother-tongue Language: Arabic
-- Proficient in English (B2) and Italian (B1) Languages
+- Proficient in English (C1) and Italian (B2) Languages
 - Novice in French (A2) and Polish (A2) Languages
 
 
@@ -226,8 +226,6 @@ Valeri E, Unali G, Piras F, __Abou Alezz M__, Pais G, Benedicenti F, Lidonnici M
 `2023`
 Unali G, Crivicich G, Pagani I, __Abou Alezz M__, Folchini F, Valeri E, Matafora V, Reisz JA, Giordano AMS, Cuccovillo I, Butta GM, Donnici L, D'Alessandro A, De Francesco R, Manganaro L, Cittaro D, Merelli I, Petrillo C, Bachi A, Vicenzi E, Kajaste-Rudnitski A. Interferon-inducible phospholipids govern IFITM3-dependent endosomal antiviral immunity. EMBO J. 2023. doi.org/10.15252/embj.2022112234
 
-`2023`
-Scarfò R, __Abou Alezz M__, El Khoury M, Gersch A, Li ZY, Luff S, Valsoni S, Cascione S, Didelon E, Merelli I, Freund JN, Sturgeon C, Tavian M, Ditadi A. CD32 allows capturing blood cells emergence in slow motion during human embryonic development. bioRxiv 2023. doi.org/10.1101/2023.03.23.530597
 
 `2023`
 Giordano AMS, __Abou Alezz M__, Merelli I, Kajaste-Rudnitski A. Protocol to differentiate monolayer human induced pluripotent stem cells into inflammatory responsive astrocytes. STAR Protoc. 2023. doi.org/10.1016/j.xpro.2023.102142
@@ -235,8 +233,6 @@ Giordano AMS, __Abou Alezz M__, Merelli I, Kajaste-Rudnitski A. Protocol to diff
 `2022`
 Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh C, Della Volpe L, Migliara A, Valsoni S, Genua M, Dzieciatkowska M, Frati G, Tahraoui-Bories J, Giliani SC, Orcesi S, Fazzi E, Ostuni R, D'Alessandro A, Di Micco R, Merelli I, Lombardo A, Reijns MAM, Gromak N, Gritti A, Kajaste-Rudnitski A. DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti res syndrome astrocytes. J Exp Med. 2022. doi.org/10.1084/jem.20211121
 
-`2021`
-Unali G, Giordano AMS, Cuccovillo I, __Abou Alezz M__, Apolonia L, Merelli I, Malim MH, Petrillo C, Kajaste-Rudnitski A. The lysine-rich intracellular loop and cell type-specific co-factors are required for IFITM3 antiviral immunity in hematopoietic stem cells. bioRxiv. 2021. doi.org/10.1101/2021.04.06.438585
 
 `2020`
 __Abou Alezz M__, Celli L, Belotti G, Lisa A and Bione S. 2020. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
@@ -306,6 +302,6 @@ Biggiogera M, Tollemeto V, Bina V, __Abou Alezz M__, Masiello I. Transcription t
 ---
 
 
-<p align="right">Last updated: 2024-04-23</p>
+<p align="right">Last updated: 2024-07-15</p>
 
 
