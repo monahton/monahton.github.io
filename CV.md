@@ -216,7 +216,7 @@ __Monaco L__ (MSc)
 _Articles_
 
 `2024`
-Valeri E,Breggion S,Barzaghi F,Abou Alezz M,Crivicich G,Pagani I,Forneris F,Sartirana C,Costantini M,Costi S,Marino A,Chiarotto E,Colavito D, Cimaz R, Merelli I, Vicenzi E, Aiuti A, Kajaste‐Rudnitski A. A novel STING variant triggers endothelial toxicity and SAVI disease. J Exp Med. 2024. doi: 10.1084/jem.20232167
+Valeri E, Breggion S, Barzaghi F, __Abou Alezz M__, Crivicich G, Pagani I, Forneris F, Sartirana C, Costantini M, Costi S, Marino A, Chiarotto E, Colavito D, Cimaz R, Merelli I, Vicenzi E, Aiuti A, Kajaste‐Rudnitski A. A novel STING variant triggers endothelial toxicity and SAVI disease. J Exp Med. 2024. doi: 10.1084/jem.20232167
 
 `2024`
 Scarfò R, Randolph LN, __Abou Alezz M__, El Khoury M, Gersch A, Li Z, Luff S, Tavosanis A, Ramondo GF, Valsoni S, Cascione S, Didelon E, Passerini L, Amodio G, Brandas C, Villa A, Gregori S, Merelli I, Freund JN, Sturgeon C, Tavian M, Ditadi A. CD32 captures committed haemogenic endothelial cells during human embryonic development. Nat Cell Biol. 2024. doi: 10.1038/s41556‐024‐01403‐0
@@ -303,6 +303,6 @@ Biggiogera M, Tollemeto V, Bina V, __Abou Alezz M__, Masiello I. Transcription t
 ---
 
 
-<p align="right">Last updated: 2024-07-15</p>
+<p align="right">Last updated: 2024-07-30</p>
 
 
