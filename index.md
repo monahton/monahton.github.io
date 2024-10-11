@@ -11,7 +11,7 @@ Dr. Monah obtained his PhD in Genetics, Molecular and Cellular Biology in 2020 f
 Currently, his research is focused on (i) studying nucleic acid sensing and innate immunity in gene therapy and disease and (ii) understanding human hematopoietic development.
 
 
-Since 2019, Dr. Monah is a certified instructor and lessons maintainer in The Carpentries organization, teaching coding and data science skills in several workshops across Europe and The United States.
+Dr. Monah is a certified instructor and lessons maintainer in The Carpentries organization, teaching coding and data science skills in several workshops across Europe and The United States.
 
 ## Current Interests and Projects:
 
