@@ -6,7 +6,7 @@ permalink: /current_research/
 
 ## <span style="color:brown"> RETROVIRUS-HOST INTERACTIONS AND INNATE IMMUNITY TO GENE TRANSFER </span>
 
-We are studying the molecular mechanisms of host-vector interplay and innate immunity in the context of hematopoietic stem and progenitor cells (HSPC) gene therapy, with particular focus on innate restriction blocks and host responses potentially triggered by the lentiviral vectors (LV) used to convey the therapeutic gene into cells. Clinical application of LV‐based HSPC gene therapy is rapidly becoming a reality. Nevertheless, LV‐mediated signaling and its potential functional consequences on HSPC biology remain poorly understood. The aim is to provide insights into how innate immune signalling may affect human HSC and hematopoietic development in vivo, with potential broad range clinical impact in the field of gene therapy.
+Our research focuses on understanding the molecular mechanisms of host-vector interactions and innate immunity in hematopoietic stem and progenitor cell (HSPC) gene therapy, with a specific emphasis on identifying innate immune restriction blocks and host immune responses triggered by lentiviral vectors (LV). As LV-based HSPC gene therapy approaches clinical application, we aim to elucidate LV-mediated signaling effects on HSPC biology by a comprehensive transcriptomic and proteomic profiling to analyze gene and protein expression changes in HSPCs post-LV transduction and identify immune signaling pathways activated by LV integration.
 
 
 ---
