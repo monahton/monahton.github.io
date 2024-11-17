@@ -6,13 +6,13 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Monah Abou Alezz
+  name: Monah Abou Alezz, PhD
   avatar: pic_monah_abou_alezz.jpg
-  bio: "This website provides research updates from Monah Abou Alezz, PhD (he/his/him). <br />
+  bio: "Postdoctoral researcher | Senior bioinformatician | Trainer. <br />
   
   <br />
   
-  Monah is a postdoctoral researcher in the Bioinformatics Core of the San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy. "
+  Welcome to my research world. Highlighting my academic and research journey. "
   email: aboualezz.monah@hsr.it
   # Do not include the @ symbol in your Twitter username
   twitter: MonahAbouAlezz
@@ -25,7 +25,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: mrLcWsEAAAAJ
+    scholar: 882eaNUAAAAJ
   facebook: monah.ezz
   instagram: monahton
   bing-verify:
