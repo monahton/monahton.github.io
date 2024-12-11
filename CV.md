@@ -14,62 +14,40 @@ permalink: /CV/
 ---
 
 
-
 ## Professional Experience
 
 `October 2020 - Current`
-__Postodoctoral researcher__, Bioinformatics Core - San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
-   - Conduct bioinformatics analysis and experimental design, develop and deploy data anakysis workflows for research projects on retrovirus-host interactions and human hematopoietic development.
-   - Collaborate with leading researchers, Prof. Anna Kajaste-Rudnitski and Prof. Andrea Ditadi, to support groundbreaking studies.
+__Postodoctoral Researcher | Senior Bioinformatician__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
+   - Designed and implemented genomics, tramscriptomics and proteomics data analyses, pipelines, and algorithms for biomedical research
+   - Devised experiments and supported the research in the following research groups: (i) Retrovirus‑host interactions and innate immunity to gene transfer
+of *Prof. Anna Kajaste‑Rudnitski*, and (ii) Human hematopoietic development and disease modeling of *Prof. Andrea Ditadi*
+   - Collaborate with leading researchers to support groundbreaking studies
 
 
 `September 2021 - September 2023`
 __Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
-   - Maintainer of core lessons of Data Carpentry
-   - Review submissions, discussions of change and set standards for the organization as a whole
+   - Maintained core lessons for the Data Carpentry program
+   - Reviewed submissions, discussions of change and set standards for the organization as a whole
 
 
 `October 2017 - September 2020`
-__PhD internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council, Pavia - Italy
-   - Laboratory of Computational Biology
-   - Project: Characterization of long non-coding RNAs genomic and splicing features
-   - PI: Prof. Silvia Bione
+__PhD Internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council, Pavia - Italy
+   - Led a bioinformatics research project titled ’Characterization of Genomic and Splicing Features of Long Non‑Coding RNAs’ within the Computational Biology Unit supervised by *Prof. Silvia Bione*
 
-  
   
 `July 2017 - October 2017`
-__ERASMUS+ Traineeship__, Institute of Plant Genetics, Polish Academy of Sciences, Poznan - Poland
+__ERASMUS+ Traineeship__, Polish Academy of Sciences, Poznan - Poland
 
-- Laboratory of Plant Genetics
-- Project: Bioinformatics characterization and identification of miRNAs in woody species
-- PI: Dr. Jorge A. Pinto Paiva
-
+- Executed an integrated wet‑lab/bioinformatics project to characterize miRNA features and functions.
+- Gained hands‑on experience with computational methods and tools for small‑RNA data analysis under the supervision of *Prof. Jorge A. Pinto Paiva*
 
 
 `November 2015 - July 2017`
-__Masters Internship__, University of Pavia - Department of Biology and Biotechnology L.Spallanzani, , Pavia - Italy
+__Masters Internship__, University of Pavia - Department of Biology and Biotechnology L.Spallanzani, Pavia - Italy
 
-- Laboratory of Cell and Neurobiology
-- Influence of divalent cations on DNA methylation and the modulation of chromatin structure in an _in situ_ ultrastructural study
-- PI: Prof. Marco Biggiogera
-
-
-
-`July 2009 - July 2015`
-__Laboratory Assistant__, Lebanese Agriculture Research Institution (LARI), Tal Amara - Lebanon
-
-- Department of Crop Production
-    - Project: Quality analysis on commercial wheat for classification and marketing
-    - PI: Eng. Chafic Stephane
-- Department of Plant Breeding and Improvement
-    - Project: Identification of new promising varieties of Triticum aestivum, Hordeum vulgare, and Lens culinaris with high productivity, good grain quality and good adaptation to different climatic conditions.
-    - PI: Eng. Rabih Kabalan
-
-
+- Executed a wet-lab research project titled 'Influence of divalent cations on DNA methylation and the modulation of chromatin structure in an _in situ_ ultrastructural study' supervised by *Prof. Marco Biggiogera*
 
 ---
-
-
 
 ## Teaching Experience
 
