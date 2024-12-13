@@ -6,9 +6,8 @@ permalink: /CV/
 
 ## Personal Information
 
-- _Address:_ Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
-- _Date of Birth:_ 03/04/1994
-- _Email:_ <span style="color:red"> aboualezz.monah@hsr.it </span>
+- <span style="color:red"> _Address:_ </span> Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
+- <span style="color:red"> _Email:_ </span> aboualezz.monah@hsr.it
 
 
 ---
@@ -51,17 +50,18 @@ __Masters Internship__, University of Pavia - Department of Biology and Biotechn
 
 ## Teaching Experience
 
-
 `January 2023 - Current`
 __Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
    - Bioinformatics workshops instructor and organizer
    - Training graduate and post-graduate biologists in Bioinformatics analyses
 
+`September 24 2024 - September 25 2024`
+__Summer School Trainer__, EMERALD Internation PhD Program for Medical Doctors, Berlin - Germany  
+   - Delivered a 2‑day workshop in 'Advanced Techniques for Data Visualisation using R Programming Language'.
+
 `March 2024 - July 2024`
 __Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg - Germany  
-   - Bioinformatics workshops instructor and organizer
-   - Training graduate and post-graduate biologists in Bioinformatics analyses
-
+   - Organized and delivered PhD courses in the usage of R programming language for Bioinformatics analyses.
 
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
@@ -81,14 +81,10 @@ __Software and Data Carpentry Instructor__, The Carpentries organization, Califo
   - ***NIH Network of the National Library of Medicine***: Library Carpentry instructor: Databases and SQL
   - ***Florida International University***: Software Carpentry instructor: R for reproducible analysis
 
-  
-
 `October 2018 - September 2020`
 __Bioinformatics Tutor__, University of Pavia, Pavia - Italy
    - Bioinformatics Course - Masters in Molecular Biology and Genetics
    - Training and practical sessions in bioinformatics tools
-
-
 
 
 ---
@@ -194,6 +190,9 @@ __Monaco L__ (MSc)
 _Articles_
 
 `2024`
+El Boustani M, Mouawad N, __Abou Alezz M__. AP3M2: A key regulator from the nervous system modulates autophagy in colorectal cancer. Tissue Cell. 2024. doi: 10.1016/j.tice.2024.102593
+
+`2024`
 Valeri E, Breggion S, Barzaghi F, __Abou Alezz M__, Crivicich G, Pagani I, Forneris F, Sartirana C, Costantini M, Costi S, Marino A, Chiarotto E, Colavito D, Cimaz R, Merelli I, Vicenzi E, Aiuti A, Kajaste‐Rudnitski A. A novel STING variant triggers endothelial toxicity and SAVI disease. J Exp Med. 2024. doi: 10.1084/jem.20232167
 
 `2024`
@@ -224,63 +223,9 @@ _Software_
 __Abou Alezz M__, Salviati L, Alfieri R, Bione S. 2020. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
 R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zenodo.3605995
 
-
-## Oral Presentations and Abstracts
-
-`2022`
-Costa Verdera H, __Abou Alezz M__, Cavalca E, Meneghini V, Mangiameli E, Giordano AMS, Singh I, Kuranda K, Ditadi A, Merelli I, Gritti A, Mingozzi F, Kajaste-Rudnitski A. Investigating the Role of Innate Immune Signaling in AAV-Mediated Gene Transfer in hiPSC-Derived CNS Models - _ASGCT 25th Annual Meeting_ - Washington D.C, USA
-
-`2021`
-Unali G, Castiglioni I, Davide G, Matafora V, __Abou Alezz M__, Merelli I, De Matteo M, Di Fabio R, Bachi A, Kajaste-Rudnitski A. Identification of Hematopoietic Stem Cell-Specific Cyclosporine H Interactors for Improved Gene Therapy Protocols – _Molecular Therapy Conference_ – Online conference
-
-`2020`
-__Abou Alezz M__, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
-protein-coding genes suggest their role in gene expression regulation - _22nd EMBL PhD Symposium: The Roaring 20s_ - Online
-conference
-
-`2020`
-__Abou Alezz M__, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
-protein-coding genes suggest their role in gene expression regulation" - _Cancer Science Institute of Singapore: 6th RNA Biology Symposium 2020_ - Online
-conference
-
-`2020`
-__Abou Alezz M__, Celli L, Belotti G, Salviati L, Nicastro A, Alfieri R, Lisa A, Bione S. GC-AG introns features in long non-coding and
-protein-coding genes suggest their role in gene expression regulation" - _25th Annual meeting of the RNA Society_ - Online
-conference
-
-`2020`
-__Abou Alezz M__, Celli L, Belotti G, Lisa A, Bione S. Unexpected features of GC-AG introns in long non-coding and protein-coding
-genes suggest a new role as regulatory elements – _Pavia 3rd Annual Joint Symposium – LIFE SCIENCE 2020_ - Pavia, Italy
-
-`2019`
-__Abou Alezz M__, Celli L, Belotti G, Bione S. Characterization of the genomic and splicing features of long non-coding RNAs using
-bioinformatics approaches - _EMBL Symposia 2019: The Non-Coding Genome_ - Heidelberg, Germany
-
-`2018`
-Borowska M, __Abou Alezz M__, Jarząb M, Gomes C, Balestrazzi A, Paiva J. Preliminary overview on conserved miRNAs in Salix
-purpurea L. - _Integrative Plant Biology Conference, IPG PAS_ - Poznań, Poland
-
-`2018`
-__Abou Alezz M__, Celli L, Bione S. Computational approach towards genomic characterization of human long non-coding RNA -
-_EMBO Workshop 2018: From epigenome towards epitranscriptome in cell fate choice_ - Capri, Italy
-
-`2018`
-Masiello I, Siciliani S, __Abou Alezz M__, Bina V, Casali C, Stortiero M, Tollemeto V, Biggiogera M. High resolution dissection of
-interphase chromatin. Is 5-methylcytosine the main character in chromatin condensation? – _22nd International Chromosome
-Conference_ - Prague, Czech Republic
-
-`2017`
-Biggiogera M, __Abou Alezz M__, Bina V, Stortiero M, Tollemeto V, Masiello I. Heterogeneity of perichromatin fibril-associated factors -
-_25th Wilhelm Bernhard Workshop on the Cell Nucleus_ – Nizhny Novgorod, Russia
-
-`2016`
-Biggiogera M, Tollemeto V, Bina V, __Abou Alezz M__, Masiello I. Transcription time window applied to RNA modifications in HeLa cells
-– _Nuclear structure and dynamics through the microscopes symposium_ - Pavia, Italy
-
-
 ---
 
 
-<p align="right">Last updated: 2024-07-30</p>
+<p align="right">Last updated: 2024-12-12</p>
 
 
