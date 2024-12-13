@@ -50,11 +50,6 @@ __Masters Internship__, University of Pavia - Department of Biology and Biotechn
 
 ## Teaching Experience
 
-`January 2023 - Current`
-__Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
-   - Bioinformatics workshops instructor and organizer
-   - Training graduate and post-graduate biologists in Bioinformatics analyses
-
 `September 24 2024 - September 25 2024`
 __Summer School Trainer__, EMERALD Internation PhD Program for Medical Doctors, Berlin - Germany  
    - Delivered a 2‑day workshop in 'Advanced Techniques for Data Visualisation using R Programming Language'.
@@ -62,6 +57,11 @@ __Summer School Trainer__, EMERALD Internation PhD Program for Medical Doctors, 
 `March 2024 - July 2024`
 __Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg - Germany  
    - Organized and delivered PhD courses in the usage of R programming language for Bioinformatics analyses.
+
+`January 2023 - Current`
+__Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
+   - Bioinformatics workshops instructor and organizer
+   - Training graduate and post-graduate biologists in Bioinformatics analyses
 
 `September 2019 - Current`
 __Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
