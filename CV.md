@@ -17,7 +17,7 @@ permalink: /CV/
 
 `October 2020 - Current`
 __Postodoctoral Researcher | Senior Bioinformatician__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
-   - Designed and implemented genomics, tramscriptomics and proteomics data analyses, pipelines, and algorithms for biomedical research
+   - Designed and implemented genomics, transcriptomics and proteomics data analyses, pipelines, and algorithms for biomedical research
    - Devised experiments and supported the research in the following research groups: (i) Retrovirus‑host interactions and innate immunity to gene transfer
 of *Prof. Anna Kajaste‑Rudnitski*, and (ii) Human hematopoietic development and disease modeling of *Prof. Andrea Ditadi*
    - Collaborate with leading researchers to support groundbreaking studies
@@ -54,7 +54,7 @@ __Masters Internship__, University of Pavia - Department of Biology and Biotechn
 __Summer School Trainer__, EMERALD Internation PhD Program for Medical Doctors, Berlin - Germany  
    - Delivered a 2‑day workshop in 'Advanced Techniques for Data Visualisation using R Programming Language'.
 
-`March 2024 - July 2024`
+`March 2024 - Current`
 __Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg - Germany  
    - Organized and delivered PhD courses in the usage of R programming language for Bioinformatics analyses.
 
