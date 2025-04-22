@@ -230,6 +230,6 @@ R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zeno
 ---
 
 
-<p align="right">Last updated: 2024-12-12</p>
+<p align="right">Last updated: 2025-04-22</p>
 
 
