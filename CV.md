@@ -219,6 +219,8 @@ Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh C, Della Volpe L, Migli
 __Abou Alezz M__, Celli L, Belotti G, Lisa A and Bione S. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
 Suggest Their Role in Gene Expression Regulation. Front. Genet. 2020 11:488. doi:10.3389/fgene.2020.00488
 
+---
+
 _Book Chapters_
   
 `2024`
