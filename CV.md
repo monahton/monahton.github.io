@@ -16,7 +16,7 @@ permalink: /CV/
 ## Professional Experience
 
 `October 2020 - Current`
-__Postodoctoral Researcher | Senior Bioinformatician__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
+__Postodoctoral Researcher | Senior Computational Biologist__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
    - Designed and implemented genomics, transcriptomics and proteomics data analyses, pipelines, and algorithms for biomedical research
    - Devised experiments and supported the research in the following research groups: (i) Retrovirus‑host interactions and innate immunity to gene transfer
 of *Prof. Anna Kajaste‑Rudnitski*, and (ii) Human hematopoietic development and disease modeling of *Prof. Andrea Ditadi*
