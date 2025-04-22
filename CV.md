@@ -216,17 +216,24 @@ Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh C, Della Volpe L, Migli
 
 
 `2020`
-__Abou Alezz M__, Celli L, Belotti G, Lisa A and Bione S. 2020. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
-Suggest Their Role in Gene Expression Regulation. Front. Genet. 11:488. doi:10.3389/fgene.2020.00488
+__Abou Alezz M__, Celli L, Belotti G, Lisa A and Bione S. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
+Suggest Their Role in Gene Expression Regulation. Front. Genet. 2020 11:488. doi:10.3389/fgene.2020.00488
 
+_Book Chapters_
+  
+`2024`
+__Abou Alezz M__, Artificial Intelligence Bioinformatics Systems for the Diagnosis and Treatment of Rare Diseases: Integration and Implementation. In: Vulpiani G (ed.) Diritto, Intelligenza Artificiale e Medicina. Un dialogo interdisciplinare. Napoli: Edizioni Scientifiche Italiane. 2024. ISBN: 978-88-495-5722-0
+
+---
   
 _Software_
   
 `2020`
-__Abou Alezz M__, Salviati L, Alfieri R, Bione S. 2020. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
-R-package version 0.2.1. https://github.com/monahton/GencoDymo. doi:10.5281/zenodo.3605995
+__Abou Alezz M__, Salviati L, Alfieri R, Bione S. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
+R-package version 0.2.1. https://github.com/monahton/GencoDymo. 2020. doi:10.5281/zenodo.3605995
 
 ---
+
 
 
 <p align="right">Last updated: 2025-04-22</p>
