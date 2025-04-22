@@ -189,6 +189,10 @@ __Monaco L__ (MSc)
 
 _Articles_
 
+`2025`
+Costa-Verdera H, Meneghini V, Fitzpatrick Z, __Abou Alezz M__, Fabyanic E, Hunag X, Dzhashiashvili Y, Ahiya A, Mangiameli E, Valeri E, Crivicich G, Piccolo S, Cuccovillo I, Caccia R, Kai Chan Y, Bertin B, Ronzitti G, Engel EA, Merelli I, Mingozzi F, Gritti A, Kuranda K, Kajaste-Rudnitski A. AAV vectors trigger DNA damage response-dependent pro-in ammatory signalling in human iPSC-derived CNS models and
+mouse brain. Nat Commun. 2025. doi: 10.1038/s41467-025-58778-3
+
 `2024`
 El Boustani M, Mouawad N, __Abou Alezz M__. AP3M2: A key regulator from the nervous system modulates autophagy in colorectal cancer. Tissue Cell. 2024. doi: 10.1016/j.tice.2024.102593
 
