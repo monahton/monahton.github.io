@@ -4,8 +4,8 @@ excerpt: "About Me..."
 ---
 
 **Dr. Monah Abou Alezz** is a postdoctoral researcher and senior computational biologist at the San Raffaele Telethon Institute for Gene Therapy (TIGET) in Milan, Italy, with a specialized focus in computational biology, gene and cell therapy.  He is a member of TIGET’s Bioinformatics Core and actively contributes to the institute’s high-impact research in two specialized units:  
-- Retrovirus-Host Interactions and Innate Immunity in Gene Therapy, under the leadership of Prof. Anna Kajaste-Rudnitski, for investigating host immune responses to viral vectors.
-- Human Hematopoietic Development and Disease Modeling, directed by Prof. Andrea Ditadi, where his work is dedicated to advancing computational methods for studying hematopoietic development and genetic disease modeling.
+- <span style="color:red"> Retrovirus-Host Interactions and Innate Immunity in Gene Therapy </span>, under the leadership of _Prof. Anna Kajaste-Rudnitski_, for investigating host immune responses to viral vectors.
+- <span style="color:red"> Human Hematopoietic Development and Disease Modeling </span>, directed by _Prof. Andrea Ditadi_, where his work is dedicated to advancing computational methods for studying hematopoietic development and genetic disease modeling.
 
 Dr. Abou Alezz specializes in designing and implementing data pipelines for analyzing large-scale genomic, transcriptomic, proteomic and metabolomic datasets, with a focus on identifying genetic biomarkers and optimizing therapeutic targets. He brings a strong proficiency in programming languages such as Bash, Python and R, as well as in bioinformatics tools and cloud platforms essential for high-throughput data analysis. Known for his exceptional ability to collaborate across multi-disciplinary teams and communicate complex findings to both technical and non-technical researchers, Dr. Abou Alezz also demonstrates significant leadership in project management and mentoring junior scientists.
 
