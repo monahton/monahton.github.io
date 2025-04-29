@@ -229,7 +229,11 @@ __Abou Alezz M__, Artificial Intelligence Bioinformatics Systems for the Diagnos
 ---
   
 _Software_
-  
+
+`2025`
+__Abou Alezz M__. GencoDymo2: Comprehensive Analysis of GENCODE Annotations and Splice Site Motifs.
+R-package version 1.0.1. https://github.com/monahton/GencoDymo2. 2025. doi:10.5281/zenodo.15302316
+
 `2020`
 __Abou Alezz M__, Salviati L, Alfieri R, Bione S. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
 R-package version 0.2.1. https://github.com/monahton/GencoDymo. 2020. doi:10.5281/zenodo.3605995
