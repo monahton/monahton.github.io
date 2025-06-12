@@ -50,6 +50,10 @@ __Masters Internship__, University of Pavia - Department of Biology and Biotechn
 
 ## Teaching Experience
 
+`May 2025 - Current`
+__Associated Partner__, MiCCrobioTackle - Leibniz Institute for Natural Product Research and Infection Biology, Jena - Germany  
+   - Delivering hands-on bioinformatics training workshops to PhD students within the MICCROBIOTACKLE consortium.
+
 `September 24 2024 - September 25 2024`
 __Summer School Trainer__, EMERALD Internation PhD Program for Medical Doctors, Berlin - Germany  
    - Delivered a 2‑day workshop in 'Advanced Techniques for Data Visualisation using R Programming Language'.
@@ -231,6 +235,10 @@ __Abou Alezz M__, Artificial Intelligence Bioinformatics Systems for the Diagnos
 _Software_
 
 `2025`
+__Abou Alezz M__. NatChat: Chatting with Nature Journals Current Issue using a local Language Model.
+R-package version 1.1.0. https://monahton.github.io/NatChat. 2025. doi:10.5281/zenodo.15482472
+
+`2025`
 __Abou Alezz M__. GencoDymo2: Comprehensive Analysis of GENCODE Annotations and Splice Site Motifs.
 R-package version 1.0.1. https://github.com/monahton/GencoDymo2. 2025. doi:10.5281/zenodo.15302316
 
@@ -242,6 +250,6 @@ R-package version 0.2.1. https://github.com/monahton/GencoDymo. 2020. doi:10.528
 
 
 
-<p align="right">Last updated: 2025-04-22</p>
+<p align="right">Last updated: 2025-05-31</p>
 
 
