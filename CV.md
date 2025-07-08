@@ -93,6 +93,16 @@ __Bioinformatics Tutor__, University of Pavia, Pavia - Italy
 
 ---
 
+## Projects
+
+`March 2024 - February 2025`
+__EARLY__ ‑ _dEsigning an ARtificial inteLligence‑based sYstem_ , Univesity of Macerata  
+  - A multidisciplinary project among medical doctors, engineers, lawyers and researchers for designing an __AI tool__ for improving diagnosis, treat‑
+ment, and monitoring of patients with rare diseases preserving fundamental rights by law.
+
+
+---
+
 
 ## Education
 
