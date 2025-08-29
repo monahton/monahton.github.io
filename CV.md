@@ -8,7 +8,7 @@ permalink: /CV/
 
 - <span style="color:brown"> _Address:_ </span> Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
 - <span style="color:brown"> _Email:_ </span> aboualezz.monah@hsr.it
-- <span style="color:brown"> _Portfolio:_ </span> [https://monahton.github.io/portfolio/]
+- <span style="color:brown"> _Portfolio:_ </span> (https://monahton.github.io/portfolio/)
 
 
 ---
