@@ -18,6 +18,12 @@ permalink: /CV/
 
 ## Professional Experience
 
+`August 2025 - Current`
+__Freelance Bioinformatician__, Sepal AI, California - USA   
+   - Designed and implemented custom AI tools and AI‑driven analytical workflows to accelerate biomedical research, streamline bioinformatics pipelines, and generate high‑quality, publication‑ready visualizations
+
+
+
 `October 2020 - Current`
 __Postodoctoral Researcher | Senior Computational Biologist__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
    - Designed and implemented genomics, transcriptomics and proteomics data analyses, pipelines, and algorithms for biomedical research
@@ -52,6 +58,11 @@ __Masters Internship__, University of Pavia - Department of Biology and Biotechn
 ---
 
 ## Teaching Experience
+
+`July 2025 - Current`
+__Freelance Trainer__, Global Horizon Training Center, London - United Kingdom  
+   - Delivered multiple in-person workshops on applied data science and AI for corporate professionals, with emphasis on data analysis workflows, reproducible research, and model interpretation.
+
 
 `May 2025 - Current`
 __Associated Partner__, MiCCrobioTackle - Leibniz Institute for Natural Product Research and Infection Biology, Jena - Germany  
@@ -176,6 +187,9 @@ Fellowship Grant, _Besta Neurological Institute_
 
 `2017`
 ERASMUS+ fellowship, _University of Pavia_
+
+`2015`
+EDiSU Pavia full scholarship, _University of Pavia_
 
 
 ---
