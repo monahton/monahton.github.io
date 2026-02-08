@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Postdoctoral Researcher | Computational Biologist | Workshop Trainer"
+excerpt: "Postdoctoral Researcher | Senior Computational Biologist | Workshop Trainer"
 ---
 
 <!-- Schema.org structured data -->
@@ -22,13 +22,13 @@ excerpt: "Postdoctoral Researcher | Computational Biologist | Workshop Trainer"
 
 # Monah Abou Alezz, PhD
 
-**Postdoctoral Researcher** · **Computational Biologist** · **Workshop Trainer**
+<span style="color:brown"> **Postdoctoral Researcher** · **Senior Computational Biologist** · **Workshop Trainer** </span>
 
 ---
 
 ## <span style="color:brown"> About Me </span>
 
-I am a computational biologist at the [San Raffaele Telethon Institute for Gene Therapy (TIGET)](https://www.hsr.it/en/research/divisions-and-institutes/tiget) in Milan, Italy, where I develop computational solutions that advance gene and cell therapy research. My work sits at the intersection of biology, data science, and medicine—transforming complex multi-omics datasets into actionable insights that drive therapeutic innovation.
+I am a senior computational biologist at the [San Raffaele Telethon Institute for Gene Therapy (TIGET)](https://www.hsr.it/en/research/divisions-and-institutes/tiget) in Milan, Italy, where I develop computational solutions that advance gene and cell therapy research. My work sits at the intersection of biology, data science, and medicine—transforming complex multi-omics datasets into actionable insights that drive therapeutic innovation.
 
 With **7+ years of experience** in bioinformatics, I specialize in building reproducible pipelines for genomics, transcriptomics, proteomics, and single-cell analyses. I am passionate about bridging the gap between raw data and biological discovery, and I thrive in collaborative, multidisciplinary research environments.
 
