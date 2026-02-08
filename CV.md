@@ -4,282 +4,211 @@ title: Curriculum vitae
 permalink: /CV/
 ---
 
-## Personal Information
+## Professional Summary
 
-- <span style="color:brown"> _Address:_ </span> Via Adolfo Ferrata 17, Pavia 27100 (PV), Italy
-- <span style="color:brown"> _Email:_ </span> aboualezz.monah@hsr.it
-- <span style="color:brown"> _Portfolio:_ </span> <a href="https://monahton.github.io/portfolio/" target="_blank" style="color:blue; text-decoration:underline;">Visit Portfolio</a>
-
-
-
+Computational biologist and bioinformatician with 7+ years of experience in multi-omics data analysis, pipeline development, and biomedical research. Currently serving as Senior Computational Biologist at the San Raffaele Telethon Institute for Gene Therapy (TIGET), contributing to cutting-edge research in gene and cell therapy. Proven expertise in genomics, transcriptomics, proteomics, and single-cell analyses, with strong programming skills in R, Python, and Bash. Published author with 10+ peer-reviewed articles in high-impact journals (Nature Communications, Nature Cell Biology, EMBO J, J Exp Med). Passionate educator with 30+ international workshops delivered across Europe and the USA. Seeking to leverage computational expertise and research leadership in advancing precision medicine and therapeutic innovation.
 
 ---
-
 
 ## Professional Experience
 
-`August 2025 - Current`
-__Freelance Bioinformatician__, Sepal AI, California - USA   
-   - Designed and implemented custom AI tools and AI‑driven analytical workflows to accelerate biomedical research, streamline bioinformatics pipelines, and generate high‑quality, publication‑ready visualizations
+`August 2025 - Present`
+__Freelance Bioinformatician__, Sepal AI, California, USA
+- Design and implement custom AI tools and AI-driven analytical workflows to accelerate biomedical research
+- Develop bioinformatics pipelines and generate publication-ready visualizations for clients
 
-
-
-`October 2020 - Current`
-__Postodoctoral Researcher | Senior Computational Biologist__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan - Italy   
-   - Designed and implemented genomics, transcriptomics and proteomics data analyses, pipelines, and algorithms for biomedical research
-   - Devised experiments and supported the research in the following research groups: (i) Retrovirus‑host interactions and innate immunity to gene transfer
-of *Prof. Anna Kajaste‑Rudnitski*, and (ii) Human hematopoietic development and disease modeling of *Prof. Andrea Ditadi*
-   - Collaborate with leading researchers to support groundbreaking studies
-
+`October 2020 - Present`
+__Postdoctoral Researcher | Senior Computational Biologist__, San Raffaele Telethon Institute for Gene Therapy (TIGET), Milan, Italy
+- Lead computational analyses for genomics, transcriptomics, proteomics, and single-cell datasets supporting gene therapy research
+- Develop and maintain reproducible bioinformatics pipelines for high-throughput sequencing data (RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq)
+- Collaborate with two research groups: *Retrovirus-Host Interactions and Innate Immunity* (Prof. Anna Kajaste-Rudnitski) and *Human Hematopoietic Development and Disease Modeling* (Prof. Andrea Ditadi)
+- Co-author 10+ publications in high-impact journals including Nature Communications, Nature Cell Biology, EMBO J, and J Exp Med
 
 `September 2021 - September 2023`
-__Data Carpentry Lessons Maintainer__, The Carpentries organization, California - USA   
-   - Maintained core lessons for the Data Carpentry program
-   - Reviewed submissions, discussions of change and set standards for the organization as a whole
-
+__Data Carpentry Lessons Maintainer__, The Carpentries Organization, California, USA
+- Maintained and updated core lessons for the Data Carpentry curriculum
+- Reviewed community submissions, led discussions on pedagogical standards, and established best practices
 
 `October 2017 - September 2020`
-__PhD Internship__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council, Pavia - Italy
-   - Led a bioinformatics research project titled ’Characterization of Genomic and Splicing Features of Long Non‑Coding RNAs’ within the Computational Biology Unit supervised by *Prof. Silvia Bione*
+__PhD Researcher__, Institute of Molecular Genetics Luigi Luca Cavalli-Sforza, National Research Council, Pavia, Italy
+- Led bioinformatics research project on genomic and splicing characterization of long non-coding RNAs
+- Developed the GencoDymo R package for GENCODE database analysis (published and cited)
+- Supervised by Prof. Silvia Bione within the Computational Biology Unit
 
-  
 `July 2017 - October 2017`
-__ERASMUS+ Traineeship__, Polish Academy of Sciences, Poznan - Poland
-
-- Executed an integrated wet‑lab/bioinformatics project to characterize miRNA features and functions.
-- Gained hands‑on experience with computational methods and tools for small‑RNA data analysis under the supervision of *Prof. Jorge A. Pinto Paiva*
-
+__ERASMUS+ Research Trainee__, Polish Academy of Sciences, Poznan, Poland
+- Conducted integrated wet-lab/bioinformatics project characterizing miRNA features and functions
+- Gained expertise in computational methods for small-RNA data analysis under Prof. Jorge A. Pinto Paiva
 
 `November 2015 - July 2017`
-__Masters Internship__, University of Pavia - Department of Biology and Biotechnology L.Spallanzani, Pavia - Italy
-
-- Executed a wet-lab research project titled 'Influence of divalent cations on DNA methylation and the modulation of chromatin structure in an _in situ_ ultrastructural study' supervised by *Prof. Marco Biggiogera*
+__Master's Research Intern__, University of Pavia, Pavia, Italy
+- Executed wet-lab research on the influence of divalent cations on DNA methylation and chromatin structure
+- Utilized advanced microscopy techniques for ultrastructural analysis; supervised by Prof. Marco Biggiogera
 
 ---
 
-## Teaching Experience
+## Teaching & Training Experience
 
-`July 2025 - Current`
-__Freelance Trainer__, Global Horizon Training Center, London - United Kingdom  
-   - Delivered multiple in-person workshops on applied data science and AI for corporate professionals, with emphasis on data analysis workflows, reproducible research, and model interpretation.
+`July 2025 - Present`
+__Freelance Trainer__, Global Horizon Training Center, London, United Kingdom
+- Deliver in-person workshops on applied data science and AI for corporate professionals
+- Focus on data analysis workflows, reproducible research, and model interpretation
 
+`May 2025 - Present`
+__Associated Partner__, MiCCrobioTackle Consortium - Leibniz Institute, Jena, Germany
+- Deliver hands-on bioinformatics training workshops to PhD students within the EU-funded consortium
 
-`May 2025 - Current`
-__Associated Partner__, MiCCrobioTackle - Leibniz Institute for Natural Product Research and Infection Biology, Jena - Germany  
-   - Delivering hands-on bioinformatics training workshops to PhD students within the MICCROBIOTACKLE consortium.
+`March 2024 - Present`
+__Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg, Germany
+- Organize and deliver PhD-level courses in R programming for bioinformatics analyses
 
-`September 24 2024 - September 25 2024`
-__Summer School Trainer__, EMERALD Internation PhD Program for Medical Doctors, Berlin - Germany  
-   - Delivered a 2‑day workshop in 'Advanced Techniques for Data Visualisation using R Programming Language'.
+`January 2023 - Present`
+__Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin, Germany
+- Design and deliver bioinformatics workshops for graduate and postgraduate researchers
+- Train researchers in computational approaches for biological data analysis
 
-`March 2024 - Current`
-__Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg - Germany  
-   - Organized and delivered PhD courses in the usage of R programming language for Bioinformatics analyses.
+`September 2024`
+__Summer School Trainer__, EMERALD International PhD Program, Berlin, Germany
+- Delivered 2-day intensive workshop on "Advanced Techniques for Data Visualization using R"
 
-`January 2023 - Current`
-__Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin - Germany  
-   - Bioinformatics workshops instructor and organizer
-   - Training graduate and post-graduate biologists in Bioinformatics analyses
-
-`September 2019 - Current`
-__Software and Data Carpentry Instructor__, The Carpentries organization, California - USA 
-
-- Teaching foundational coding and data science skills to researchers in worldwide workshops
-- 30+ workshops delivered in Europe, USA and Saudi Arabia
-- Selected workshops:
-  - ***Harvard Stem Cell Institute***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***United States Centers for Disease Control (CDC)***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***Jackson Laboratory***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***Genentech, A member of the Roche group***: Data Carpentry instructor: Data analysis and visualization in R
-  - ***Max Delbrück Center for Molecular Medicine (MDC)***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***Rutgers University***: Genomics workshop instructor: Project management/ Introduction to cloud computing
-  - ***Saudi Food and Drug Authority (sFDA)***: Data analysis and visualization in R
-  - ***Atlanta University Center***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***George Washington University***: Genomics workshop instructor: Variant calling workflow using AWS
-  - ***NIH Network of the National Library of Medicine***: Library Carpentry instructor: Databases and SQL
-  - ***Florida International University***: Software Carpentry instructor: R for reproducible analysis
+`September 2019 - Present`
+__Certified Instructor__, The Carpentries Organization, California, USA
+- Teach foundational coding and data science skills to researchers worldwide
+- Delivered 30+ workshops across Europe, USA, and Saudi Arabia
+- **Selected Workshops:**
+  - Harvard Stem Cell Institute – Genomics: Variant Calling Workflow (AWS)
+  - US Centers for Disease Control (CDC) – Genomics: Variant Calling Workflow (AWS)
+  - Jackson Laboratory – Genomics: Variant Calling Workflow (AWS)
+  - Genentech (Roche) – Data Analysis and Visualization in R
+  - Max Delbrück Center (MDC) – Genomics: Variant Calling Workflow (AWS)
+  - Saudi Food and Drug Authority (sFDA) – Data Analysis and Visualization in R
+  - NIH National Library of Medicine – Library Carpentry: Databases and SQL
 
 `October 2018 - September 2020`
-__Bioinformatics Tutor__, University of Pavia, Pavia - Italy
-   - Bioinformatics Course - Masters in Molecular Biology and Genetics
-   - Training and practical sessions in bioinformatics tools
+__Bioinformatics Teaching Assistant__, University of Pavia, Pavia, Italy
+- Delivered practical sessions for the Bioinformatics Course (Master's in Molecular Biology and Genetics)
 
+---
+
+## Education
+
+`2017 - 2020`
+__PhD in Genetics, Molecular and Cellular Biology__
+University of Pavia, Pavia, Italy
+- Thesis: *Characterization of Genomic and Splicing Features of Long Non-Coding RNAs*
+- Conducted at the Institute of Molecular Genetics Luigi Luca Cavalli-Sforza (CNR)
+
+`2015 - 2017`
+__Master's Degree in Molecular Biology and Genetics__
+University of Pavia, Pavia, Italy
+
+`2012 - 2015`
+__Bachelor's Degree in Earth and Life Sciences__
+Lebanese University, Lebanon
+
+---
+
+## Technical Skills
+
+**Programming & Scripting**
+- R (advanced), Python, Bash, Perl, Julia
+
+**Bioinformatics & Data Analysis**
+- Multi-omics analysis: genomics, transcriptomics, proteomics, metabolomics
+- High-throughput sequencing: RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq
+- Differential expression analysis, variant calling, peak calling, pathway analysis
+- Machine learning for biological data and predictive modeling
+
+**Tools & Platforms**
+- Cloud computing: AWS (EC2, S3)
+- Version control: Git, GitHub, GitLab, Bitbucket
+- Databases: SQL, biological databases (GENCODE, Ensembl, UCSC)
+- Visualization: ggplot2, GraphPad, Adobe Photoshop, ImageJ
+
+**Operating Systems**
+- Linux, macOS, Windows
+
+**Wet Laboratory**
+- Microscopy: electron microscopy, fluorescence microscopy, light microscopy
+- Molecular biology: DNA/RNA extraction, PCR, cloning, western blot, ELISA
+- Microbiology: bacterial culture, gram staining, biochemical testing
+
+---
+
+## Languages
+
+- **Arabic** – Native
+- **English** – Proficient (C1)
+- **Italian** – Upper Intermediate (B2)
+- **French** – Elementary (A2)
+- **Polish** – Elementary (A2)
 
 ---
 
 ## Projects
 
 `March 2024 - February 2025`
-__EARLY__ ‑ _dEsigning an ARtificial inteLligence‑based sYstem_ , Univesity of Macerata  
-  - A multidisciplinary project among medical doctors, engineers, lawyers and researchers for designing an __AI tool__ for improving diagnosis, treat‑
-ment, and monitoring of patients with rare diseases preserving fundamental rights by law.
-
-
----
-
-
-## Education
-
-`2017 - 2020`
-__University of Pavia,__
-PhD in Genetics, Molecular and Cellular Biology
-
-`2015 - 2017`
-__University of Pavia,__
-Masters Degree in Molecular Biology and Genetics
-
-`2012 - 2015`
-__Lebanese University,__
-Bachelor Degree in Earth and Life Sciences
-
+__EARLY – dEsigning an ARtificial inteLligence-based sYstem__, University of Macerata, Italy
+- Multidisciplinary project involving medical doctors, engineers, lawyers, and researchers
+- Designed an AI tool for improving diagnosis, treatment, and monitoring of patients with rare diseases while preserving fundamental rights by law
 
 ---
 
+## Awards & Grants
 
-## Skills
-
-_Bioinformatics Skills_
-
-- Extensive experience in -omics data analysis: Expertise in genomics, transcriptomics, proteomics, and metabolomics data interpretation and integration
-- Advanced Proficiency in High-Throughput Sequencing Data Analysis: In-depth analysis of RNA-seq, single-cell RNA-seq, ChIP-seq, and ATAC-seq datasets, including quality control, alignment, differential expression analysis, and peak calling
-- Extensive experience in programming languages: R, Python, Bash, Perl, Julia
-- Skilled in leveraging cloud platforms, particularly AWS, for large-scale data processing and storage solutions
-- Proficient in applying machine learning algorithms and techniques to biological data for predictive modeling and pattern recognition
-- Comprehensive knowledge of Windows 7/8/10, macOS, and Linux environments
-- Expertise in Git, Bitbucket, Gitlab and GitHub for collaborative development, version tracking, and source code management
-- Basic knowledge in SQL for querying and managing biological databases.
-- Proficient in Microsoft Office Suite for professional documentation, data presentation, and communication.
-- Image Analysis and Visualization Software: Skilled in using Adobe Photoshop, ImageJ, Cell F, and GraphPad for image analysis, scientific visualization, and figure preparation.
-  
-_Wet Laboratory Skills_
-
-- Proficient in Microscopy utilization and samples preparation: electron microscopy (ZEISS EM 900), electron spectroscopic imaging, fluorescence microscopy, light microscopy (bright field, dark field, phase contrast, DIC)
-- Proficient in molecular biology lab techniques: DNA/RNA extraction, PCR, gene cloning, protein extraction, western blot, ELISA
-- Proficient in microbiology laboratory techniques: gram staining, bacterial cell culture, antibiotic specificity, bacterial identification
-biochemical testing.
-  
-_Language Skills_
-
-- Mother-tongue Language: Arabic
-- Proficient in English (C1) and Italian (B2) Languages
-- Novice in French (A2) and Polish (A2) Languages
-
+`2021` James Taylor Fellowship – *Galaxy Community Conference (GCC2021)*
+`2019` Best Poster Prize – *EMBL-EMBO Symposium: The Non-Coding Genome*
+`2018` Fellowship Grant – *AIRC Foundation*
+`2018` Travel Grant – *INTEROMICS*
+`2017` Fellowship Grant – *Besta Neurological Institute*
+`2017` ERASMUS+ Fellowship – *University of Pavia*
+`2015` EDiSU Full Scholarship – *University of Pavia*
 
 ---
 
+## Student Supervision
 
-## Awards
+**Master's Students:** Salviati L (2019), Nicastro A (2019), Belotti G (2019), Celli L (2018), Postiglione U (2018), Monaco L (2017)
 
-`2021`
-James Taylor Fellowship, _2021 Galaxy Community Conference (GCC2021)_
-
-`2019`
-Best Poster Prize, _EMBL-EMBO Symposium: The Non-Coding Genome_
-
-`2018`
-Fellowship Grant, _AIRC Foundation_
-
-`2018`
-Travel Grant, _INTEROMICS_
-
-`2017`
-Fellowship Grant, _Besta Neurological Institute_
-
-`2017`
-ERASMUS+ fellowship, _University of Pavia_
-
-`2015`
-EDiSU Pavia full scholarship, _University of Pavia_
-
+**Bachelor's Students:** Roasria S (2020), Baldrighi GN (2018)
 
 ---
-
-## Student research supervision
-
-`2020`
-__Roasria S__ (BSc)
-
-`2019`
-__Salviati L__ (MSc);
-__Nicastro A__ (MSc);
-__Belotti G__ (MSc);
-
-`2018`
-__Celli L__ (MSc);
-__Postiglione U__ (MSc);
-__Baldrighi GN__ (BSc)
-
-`2017`
-__Monaco L__ (MSc)
-
----
-
-
 
 ## Publications
 
-_Articles_
+*For complete publication list, see [Publications](/publications/)*
 
-`2025`
-Paillet J, Gaudeaux P, __Abou Alezz M__, Moirangthem RD, Cascione S, Corredera MM, Dolens AC, De Mulder K, Velghe I, Lavaert M, Vandekerckhove B, Noémie R, Corneau A, Sadek H, Rault P, Joshi A, De La Grange P, Staal F, Taghon T, Olivier N, Ditadi A, André I, Soheili TS. Ex vivo-generated lymphoid progenitors encompass both T cell and innate lymphoid cell fates. Front Immunol. 2025. doi: 10.3389/fimmu.2025.1617707
+**First Author:**
+- __Abou Alezz M__ et al. (2020) GC-AG Introns Features in Long Non-Coding and Protein-Coding Genes Suggest Their Role in Gene Expression Regulation. *Front. Genet.* doi:10.3389/fgene.2020.00488
 
-`2025`
-Costa-Verdera H, Meneghini V, Fitzpatrick Z, __Abou Alezz M__, Fabyanic E, Hunag X, Dzhashiashvili Y, Ahiya A, Mangiameli E, Valeri E, Crivicich G, Piccolo S, Cuccovillo I, Caccia R, Kai Chan Y, Bertin B, Ronzitti G, Engel EA, Merelli I, Mingozzi F, Gritti A, Kuranda K, Kajaste-Rudnitski A. AAV vectors trigger DNA damage response-dependent pro-in ammatory signalling in human iPSC-derived CNS models and mouse brain. Nat Commun. 2025. doi: 10.1038/s41467-025-58778-3
+**Last Author:**
+- El Boustani M, Mouawad N, __Abou Alezz M__. (2024) AP3M2: A key regulator from the nervous system modulates autophagy in colorectal cancer. *Tissue Cell.* doi:10.1016/j.tice.2024.102593
 
-`2024`
-El Boustani M, Mouawad N, __Abou Alezz M__. AP3M2: A key regulator from the nervous system modulates autophagy in colorectal cancer. Tissue Cell. 2024. doi: 10.1016/j.tice.2024.102593
+**Co-Author (Selected):**
+- Costa-Verdera H, ..., __Abou Alezz M__, et al. (2025) AAV vectors trigger DNA damage response-dependent pro-inflammatory signalling. *Nat Commun.* doi:10.1038/s41467-025-58778-3
+- Scarfò R, ..., __Abou Alezz M__, et al. (2024) CD32 captures committed haemogenic endothelial cells. *Nat Cell Biol.* doi:10.1038/s41556-024-01403-0
+- Valeri E, ..., __Abou Alezz M__, et al. (2024) A novel STING variant triggers endothelial toxicity and SAVI disease. *J Exp Med.* doi:10.1084/jem.20232167
+- Unali G, ..., __Abou Alezz M__, et al. (2023) Interferon-inducible phospholipids govern IFITM3-dependent endosomal antiviral immunity. *EMBO J.* doi:10.15252/embj.2022112234
 
-`2024`
-Valeri E, Breggion S, Barzaghi F, __Abou Alezz M__, Crivicich G, Pagani I, Forneris F, Sartirana C, Costantini M, Costi S, Marino A, Chiarotto E, Colavito D, Cimaz R, Merelli I, Vicenzi E, Aiuti A, Kajaste‐Rudnitski A. A novel STING variant triggers endothelial toxicity and SAVI disease. J Exp Med. 2024. doi: 10.1084/jem.20232167
+**Book Chapter:**
+- __Abou Alezz M__ (2024) AI Bioinformatics Systems for Rare Diseases. In: *Diritto, Intelligenza Artificiale e Medicina*. Edizioni Scientifiche Italiane. ISBN: 978-88-495-5722-0
 
-`2024`
-Scarfò R, Randolph LN, __Abou Alezz M__, El Khoury M, Gersch A, Li Z, Luff S, Tavosanis A, Ramondo GF, Valsoni S, Cascione S, Didelon E, Passerini L, Amodio G, Brandas C, Villa A, Gregori S, Merelli I, Freund JN, Sturgeon C, Tavian M, Ditadi A. CD32 captures committed haemogenic endothelial cells during human embryonic development. Nat Cell Biol. 2024. doi: 10.1038/s41556‐024‐01403‐0
-
-`2023`
-Valeri E, Unali G, Piras F, __Abou Alezz M__, Pais G, Benedicenti F, Lidonnici MR, Cuccovillo I, Castiglioni I, Arévalo S, Spinozzi G, Merelli I, Behrendt R, Oo A, Kim B, Landau NR, Ferrari G, Montini E, Kajaste-Rudnitski A. Removal of innate immune barriers allows efficient transduction of quiescent human hematopoietic stem cells. Mol Ther. 2023. doi: 10.1016/j.ymthe.2023.11.020
-
-`2023`
-Unali G, Crivicich G, Pagani I, __Abou Alezz M__, Folchini F, Valeri E, Matafora V, Reisz JA, Giordano AMS, Cuccovillo I, Butta GM, Donnici L, D'Alessandro A, De Francesco R, Manganaro L, Cittaro D, Merelli I, Petrillo C, Bachi A, Vicenzi E, Kajaste-Rudnitski A. Interferon-inducible phospholipids govern IFITM3-dependent endosomal antiviral immunity. EMBO J. 2023. doi.org/10.15252/embj.2022112234
-
-
-`2023`
-Giordano AMS, __Abou Alezz M__, Merelli I, Kajaste-Rudnitski A. Protocol to differentiate monolayer human induced pluripotent stem cells into inflammatory responsive astrocytes. STAR Protoc. 2023. doi.org/10.1016/j.xpro.2023.102142
-
-`2022`
-Giordano AMS, Luciani M, Gatto F, __Abou Alezz M__, Begh C, Della Volpe L, Migliara A, Valsoni S, Genua M, Dzieciatkowska M, Frati G, Tahraoui-Bories J, Giliani SC, Orcesi S, Fazzi E, Ostuni R, D'Alessandro A, Di Micco R, Merelli I, Lombardo A, Reijns MAM, Gromak N, Gritti A, Kajaste-Rudnitski A. DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti res syndrome astrocytes. J Exp Med. 2022. doi.org/10.1084/jem.20211121
-
-
-`2020`
-__Abou Alezz M__, Celli L, Belotti G, Lisa A and Bione S. GC-AG Introns Features in Long Non-coding and Protein-Coding Genes
-Suggest Their Role in Gene Expression Regulation. Front. Genet. 2020 11:488. doi:10.3389/fgene.2020.00488
+**Software:**
+- NatChat (2025) – R package for LLM-based interaction with Nature journals. doi:10.5281/zenodo.15482472
+- GencoDymo2 (2025) – GENCODE annotation analysis. doi:10.5281/zenodo.15302316
+- GencoDymo (2020) – GENCODE database extraction tools. doi:10.5281/zenodo.3605995
 
 ---
 
-_Book Chapters_
-  
-`2024`
-__Abou Alezz M__, Artificial Intelligence Bioinformatics Systems for the Diagnosis and Treatment of Rare Diseases: Integration and Implementation. In: Vulpiani G (ed.) Diritto, Intelligenza Artificiale e Medicina. Un dialogo interdisciplinare. Napoli: Edizioni Scientifiche Italiane. 2024. ISBN: 978-88-495-5722-0
+## Contact
 
----
-  
-_Software_
-
-`2025`
-__Abou Alezz M__. NatChat: Chatting with Nature Journals Current Issue using a local Language Model.
-R-package version 1.1.0. https://monahton.github.io/NatChat. 2025. doi:10.5281/zenodo.15482472
-
-`2025`
-__Abou Alezz M__. GencoDymo2: Comprehensive Analysis of GENCODE Annotations and Splice Site Motifs.
-R-package version 1.0.1. https://github.com/monahton/GencoDymo2. 2025. doi:10.5281/zenodo.15302316
-
-`2020`
-__Abou Alezz M__, Salviati L, Alfieri R, Bione S. GencoDymo: Data Extraction and Manipulation from the GENCODE Database.
-R-package version 0.2.1. https://github.com/monahton/GencoDymo. 2020. doi:10.5281/zenodo.3605995
+- **Email:** aboualezz.monah@hsr.it
+- **Portfolio:** [monahton.github.io/portfolio](https://monahton.github.io/portfolio/)
+- **GitHub:** [github.com/monahton](https://github.com/monahton)
+- **LinkedIn:** [linkedin.com/in/monah-abou-alezz-phd](https://linkedin.com/in/monah-abou-alezz-phd-06a948ba)
 
 ---
 
-
-
-<p align="right">Last updated: 2025-05-31</p>
+<p align="right">Last updated: 2026-02-08</p>
 
 
