@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Postdoctoral Researcher | Computational Biologist | Workshop Trainer"
 ---
 
 <!-- Schema.org structured data -->
@@ -10,7 +10,7 @@ excerpt: "About Me..."
   "@type": "Person",
   "name": "Monah Abou Alezz",
   "image": "https://monahton.github.io/images/pic_monah_abou_alezz.jpg",
-  "jobTitle": "Postdoc Researcher / Senior Computational Biologist",
+  "jobTitle": "Senior Computational Biologist",
   "url": "https://monahton.github.io",
   "sameAs": [
     "https://linkedin.com/in/monah-abou-alezz-phd-06a948ba",
@@ -20,25 +20,76 @@ excerpt: "About Me..."
 }
 </script>
 
+# Monah Abou Alezz, PhD
 
-**Dr. Monah Abou Alezz** is a postdoctoral researcher and senior computational biologist at the San Raffaele Telethon Institute for Gene Therapy (TIGET) in Milan, Italy, with a specialized focus in computational biology, gene and cell therapy.  He is a member of TIGET’s Bioinformatics Core and actively contributes to the institute’s high-impact research in two specialized units:  
-- <span style="color:brown"> Retrovirus-Host Interactions and Innate Immunity in Gene Therapy </span>, under the leadership of _Prof. Anna Kajaste-Rudnitski_, for investigating host immune responses to viral vectors.
-- <span style="color:brown"> Human Hematopoietic Development and Disease Modeling </span>, directed by _Prof. Andrea Ditadi_, where his work is dedicated to advancing computational methods for studying hematopoietic development and genetic disease modeling.
+**Postdoctoral Researcher** · **Computational Biologist** · **Workshop Trainer**
 
-Dr. Abou Alezz specializes in designing and implementing data pipelines for analyzing large-scale genomic, transcriptomic, proteomic and metabolomic datasets, with a focus on identifying genetic biomarkers and optimizing therapeutic targets. He brings a strong proficiency in programming languages such as Bash, Python and R, as well as in bioinformatics tools and cloud platforms essential for high-throughput data analysis. Known for his exceptional ability to collaborate across multi-disciplinary teams and communicate complex findings to both technical and non-technical researchers, Dr. Abou Alezz also demonstrates significant leadership in project management and mentoring junior scientists.
+---
 
-With a Ph.D. in Genetics, Molecular, and Cellular Biology from the University of Pavia, Dr. Abou Alezz holds a strong foundation in Genetics and Molecular Biology field in addition to Bioinformatics. His doctoral research, conducted at the Computational Biology Unit of the Institute of Molecular Genetics Luigi Luca Cavalli-Sforza - National Research Council, focused on characterizing the genomic and splicing dynamics of long non-coding RNAs (lncRNAs) under the mentorship of Prof. Silvia Bione. During this time, he developed innovative bioinformatics tools for gene annotation analysis, addressing pivotal challenges in gene function prediction and splicing regulation.
+## About Me
 
-Additionally, Dr. Abou Alezz is a certified instructor and lesson maintainer for The Carpentries organization, where he teaches coding and data science skills in workshops across Europe and the United States.
+I am a computational biologist at the [San Raffaele Telethon Institute for Gene Therapy (TIGET)](https://www.hsr.it/en/research/divisions-and-institutes/tiget) in Milan, Italy, where I develop computational solutions that advance gene and cell therapy research. My work sits at the intersection of biology, data science, and medicine—transforming complex multi-omics datasets into actionable insights that drive therapeutic innovation.
 
-## Current Interests and Projects:
+With **7+ years of experience** in bioinformatics, I specialize in building reproducible pipelines for genomics, transcriptomics, proteomics, and single-cell analyses. I am passionate about bridging the gap between raw data and biological discovery, and I thrive in collaborative, multidisciplinary research environments.
 
-- gene and cell therapy innovation and optimization
-- disease modeling using computational and statistical approaches
-- advanced data interpretation and statistical analysis for multi-omics integration
-- development of bioinformatics workflows for various single-cell analyses
-- machine learning applications for predictive modeling in genomics and therapeutic response
-- data pipeline automation for reproducible and scalable analyses
-- data visualization techniques for high-dimensional biological datasets
-- promoting coding and data science education through workshops and curriculum design across Europe and the United States
+Beyond research, I am dedicated to **scientific education**—having delivered **30+ workshops** worldwide through [The Carpentries](https://carpentries.org/) and major research institutions including Harvard, the CDC, Genentech, and the German Cancer Research Center (DKFZ).
+
+---
+
+## What I Do
+
+**Research & Analysis**
+- Multi-omics data integration (genomics, transcriptomics, proteomics, metabolomics)
+- Single-cell RNA-seq, ChIP-seq, and ATAC-seq analysis
+- Machine learning for biomarker discovery and predictive modeling
+- Pipeline development for reproducible, scalable analyses
+
+**Teaching & Training**
+- International bioinformatics workshops and courses
+- R programming and data visualization training
+- Cloud computing for genomics (AWS)
+
+**Software Development**
+- [GencoDymo2](https://github.com/monahton/GencoDymo2) – GENCODE annotation analysis
+- [NatChat](https://monahton.github.io/NatChat) – LLM-powered literature exploration
+
+---
+
+## Selected Highlights
+
+- **10+ publications** in high-impact journals including *Nature Communications*, *Nature Cell Biology*, *EMBO Journal*, and *Journal of Experimental Medicine*
+- **30+ international workshops** delivered across Europe, USA, and Saudi Arabia
+- **8 graduate students** supervised (MSc and BSc)
+- **3 open-source R packages** published for the bioinformatics community
+- **James Taylor Fellowship** recipient (Galaxy Community Conference 2021)
+- **Best Poster Prize** at EMBL-EMBO Symposium: The Non-Coding Genome
+
+---
+
+## Current Interests
+
+- Gene and cell therapy optimization
+- Disease modeling through computational approaches
+- Multi-omics integration and systems biology
+- Single-cell analysis workflows
+- Machine learning for therapeutic response prediction
+- Data visualization for high-dimensional datasets
+- Scientific education and curriculum development
+
+---
+
+## Let's Connect
+
+I'm always open to collaborations, consulting opportunities, and discussions about bioinformatics, data science, or science education.
+
+- **Email:** [aboualezz.monah@hsr.it](mailto:aboualezz.monah@hsr.it)
+- **GitHub:** [github.com/monahton](https://github.com/monahton)
+- **LinkedIn:** [linkedin.com/in/monah-abou-alezz-phd](https://linkedin.com/in/monah-abou-alezz-phd-06a948ba)
+- **Twitter:** [@MonahAbouAlezz](https://twitter.com/MonahAbouAlezz)
+
+---
+
+<p align="center">
+<a href="/CV/">View Full CV</a> · <a href="/publications/">Publications</a> · <a href="/current_research/">Current Research</a>
+</p>
 
