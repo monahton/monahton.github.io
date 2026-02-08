@@ -26,7 +26,7 @@ excerpt: "Postdoctoral Researcher | Computational Biologist | Workshop Trainer"
 
 ---
 
-## About Me
+## <span style="color:brown"> About Me </span>
 
 I am a computational biologist at the [San Raffaele Telethon Institute for Gene Therapy (TIGET)](https://www.hsr.it/en/research/divisions-and-institutes/tiget) in Milan, Italy, where I develop computational solutions that advance gene and cell therapy research. My work sits at the intersection of biology, data science, and medicine—transforming complex multi-omics datasets into actionable insights that drive therapeutic innovation.
 
@@ -36,7 +36,7 @@ Beyond research, I am dedicated to **scientific education**—having delivered *
 
 ---
 
-## What I Do
+## <span style="color:brown"> What I Do </span>
 
 **Research & Analysis**
 - Multi-omics data integration (genomics, transcriptomics, proteomics, metabolomics)
@@ -55,7 +55,7 @@ Beyond research, I am dedicated to **scientific education**—having delivered *
 
 ---
 
-## Selected Highlights
+## <span style="color:brown"> Selected Highlights </span>
 
 - **10+ publications** in high-impact journals including *Nature Communications*, *Nature Cell Biology*, *EMBO Journal*, and *Journal of Experimental Medicine*
 - **30+ international workshops** delivered across Europe, USA, and Saudi Arabia
@@ -66,7 +66,7 @@ Beyond research, I am dedicated to **scientific education**—having delivered *
 
 ---
 
-## Current Interests
+## <span style="color:brown"> Current Interests </span>
 
 - Gene and cell therapy optimization
 - Disease modeling through computational approaches
@@ -78,7 +78,7 @@ Beyond research, I am dedicated to **scientific education**—having delivered *
 
 ---
 
-## Let's Connect
+## <span style="color:brown"> Let's Connect </span>
 
 I'm always open to collaborations, consulting opportunities, and discussions about bioinformatics, data science, or science education.
 
