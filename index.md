@@ -30,9 +30,9 @@ excerpt: "Postdoctoral Researcher | Senior Computational Biologist | Workshop Tr
 
 I am a senior computational biologist at the [San Raffaele Telethon Institute for Gene Therapy (TIGET)](https://www.hsr.it/en/research/divisions-and-institutes/tiget) in Milan, Italy, where I develop computational solutions that advance gene and cell therapy research. My work sits at the intersection of biology, data science, and medicine—transforming complex multi-omics datasets into actionable insights that drive therapeutic innovation.
 
-With **7+ years of experience** in bioinformatics, I specialize in building reproducible pipelines for genomics, transcriptomics, proteomics, and single-cell analyses. I am passionate about bridging the gap between raw data and biological discovery, and I thrive in collaborative, multidisciplinary research environments.
+With **7+ years of experience** in bioinformatics, I specialize in building reproducible pipelines for genomics, transcriptomics, proteomics, metabolomics, lipidomics and single-cell analyses. I am passionate about bridging the gap between raw data and biological discovery, and I thrive in collaborative, multidisciplinary research environments.
 
-Beyond research, I am dedicated to **scientific education**—having delivered **30+ workshops** worldwide through [The Carpentries](https://carpentries.org/) and major research institutions including Harvard, the CDC, Genentech, and the German Cancer Research Center (DKFZ).
+Beyond research, I am dedicated to **scientific education**—having delivered **30+ workshops** worldwide through [The Carpentries](https://carpentries.org/) and major research institutions including Harvard, the CDC, Genentech, Jackson Laboratory, Max Delbrück Center for Molecular Medicine and the German Cancer Research Center (DKFZ).
 
 ---
 
@@ -46,7 +46,7 @@ Beyond research, I am dedicated to **scientific education**—having delivered *
 
 **Teaching & Training**
 - International bioinformatics workshops and courses
-- R programming and data visualization training
+- Programming and data visualization training
 - Cloud computing for genomics (AWS)
 
 **Software Development**
