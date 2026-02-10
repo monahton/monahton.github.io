@@ -6,7 +6,7 @@ permalink: /CV/
 
 ## Professional Summary
 
-Computational biologist and bioinformatician with 7+ years of experience in multi-omics data analysis, pipeline development, and biomedical research. Currently serving as Senior Computational Biologist at the San Raffaele Telethon Institute for Gene Therapy (TIGET), contributing to cutting-edge research in gene and cell therapy. Proven expertise in genomics, transcriptomics, proteomics, and single-cell analyses, with strong programming skills in R, Python, and Bash. Published author with 10+ peer-reviewed articles in high-impact journals (Nature Communications, Nature Cell Biology, EMBO J, J Exp Med). Passionate educator with 30+ international workshops delivered across Europe and the USA. Seeking to leverage computational expertise and research leadership in advancing precision medicine and therapeutic innovation.
+Computational biologist with 10+ years of experience in multi-omics data analysis, pipeline development, and biomedical research. Proven expertise in genomics, transcriptomics, proteomics, and single-cell analyses, with strong programming skills in R, Python, and Bash. Published author with 10+ peer-reviewed articles in high-impact journals (Nature Communications, Nature Cell Biology, EMBO J, J Exp Med). Passionate educator with 30+ international workshops delivered across Europe and the USA. Seeking to leverage computational expertise and research leadership in advancing precision medicine and therapeutic innovation.
 
 ---
 
@@ -56,11 +56,11 @@ __Freelance Trainer__, Global Horizon Training Center, London, United Kingdom
 
 `May 2025 - Present`
 __Associated Partner__, MiCCrobioTackle Consortium - Leibniz Institute, Jena, Germany
-- Deliver hands-on bioinformatics training workshops to PhD students within the EU-funded consortium
+- Deliver hands-on bioinformatics training workshops to PhD students within the EU-funded consortium *MiCCrobioTackle*
 
 `March 2024 - Present`
 __Bioinformatics Trainer__, German Cancer Research Center (DKFZ), Heidelberg, Germany
-- Organize and deliver PhD-level courses in R programming for bioinformatics analyses
+- Organize and deliver PhD-level courses in bioinformatics analyses including programming, data visualisation, omics analyses, project organisation and scientific writing.
 
 `January 2023 - Present`
 __Bioinformatics Trainer__, Max Delbrück Center for Molecular Medicine (MDC), Berlin, Germany
