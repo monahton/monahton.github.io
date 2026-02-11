@@ -111,19 +111,20 @@ Lebanese University, Lebanon
 ## Technical Skills
 
 **Programming & Scripting**
-- R (advanced), Python, Bash, Perl, Julia
+- R, Python, Bash, Perl, Julia
 
 **Bioinformatics & Data Analysis**
-- Multi-omics analysis: genomics, transcriptomics, proteomics, metabolomics
-- High-throughput sequencing: RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq
-- Differential expression analysis, variant calling, peak calling, pathway analysis
+- Multi-omics analysis: genomics, transcriptomics, proteomics, metabolomics, lipidomics
+- High-throughput sequencing: RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq, Spatial transcriptomics
+- Bioinformatics analyses workflows using Snakemake and Nextflow
 - Machine learning for biological data and predictive modeling
 
 **Tools & Platforms**
-- Cloud computing: AWS (EC2, S3)
+- Cloud computing: AWS (EC2, S3, Glacier), Alibaba Professional
 - Version control: Git, GitHub, GitLab, Bitbucket
 - Databases: SQL, biological databases (GENCODE, Ensembl, UCSC)
 - Visualization: ggplot2, GraphPad, Adobe Photoshop, ImageJ
+- Interactive web applications using Shiny
 
 **Operating Systems**
 - Linux, macOS, Windows
