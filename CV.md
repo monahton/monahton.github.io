@@ -101,10 +101,18 @@ University of Pavia, Pavia, Italy
 `2015 - 2017`
 __Master's Degree in Molecular Biology and Genetics__
 University of Pavia, Pavia, Italy
+- Thesis: *Influence of Divalent Cations on DNA Methylation in the Modulation of Chromatin Structure – An In-situ Ultrastructural Study*
+- Grade: *110/110 cum laude*
 
 `2012 - 2015`
 __Bachelor's Degree in Earth and Life Sciences__
 Lebanese University, Lebanon
+- Grade: 17/20
+
+`2010 - 2012`
+__High School Degree in Life Sciences__
+Al-Mustapha High School, Lebanon
+- Grade: 17.5/20 (13th rank on all Lebanese students in the state official exams)
 
 ---
 
@@ -159,9 +167,9 @@ __EARLY – dEsigning an ARtificial inteLligence-based sYstem__, University of M
 
 `2021` James Taylor Fellowship – *Galaxy Community Conference (GCC2021)*
 `2019` Best Poster Prize – *EMBL-EMBO Symposium: The Non-Coding Genome*
-`2018` Fellowship Grant – *AIRC Foundation*
+`2018.` Fellowship Grant – *AIRC Foundation*
 `2018` Travel Grant – *INTEROMICS*
-`2017` Fellowship Grant – *Besta Neurological Institute*
+`2017 ` Fellowship Grant – *Besta Neurological Institute*
 `2017` ERASMUS+ Fellowship – *University of Pavia*
 `2015` EDiSU Full Scholarship – *University of Pavia*
 
