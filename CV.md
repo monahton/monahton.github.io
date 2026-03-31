@@ -107,7 +107,7 @@ University of Pavia, Pavia, Italy
 `2012 - 2015`
 __Bachelor's Degree in Earth and Life Sciences__
 Lebanese University, Lebanon
-- Grade: 17/20
+- Grade: 17/20 (U.S. Equivalent: GPA: 4.0)
 
 `2010 - 2012`
 __High School Degree in Life Sciences__
