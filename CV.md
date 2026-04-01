@@ -112,7 +112,7 @@ Lebanese University, Lebanon
 `2010 - 2012`
 __High School Degree in Life Sciences__
 Al-Mustapha High School, Lebanon
-- Grade: 17.5/20 (13th rank on all Lebanese students in the state official exams)
+- Grade: 17.5/20 (13th rank on all Lebanese students in Lebanon's official exams)
 
 ---
 
